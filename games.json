@@ -20,36 +20,6 @@
     "url": "https://codingkitten-yt.github.io/Pico-8Embedder/?url=https://raw.githubusercontent.com/CodingKitten-YT/Pico-8Embedder/refs/heads/main/carts/picohot-0.p8.png"
   },
   {
-    "name": "Stacktris",
-    "image": "https://tag-2.github.io/img/stacktris.png",
-    "url": "https://tag-2.github.io/a6/stacktris/"
-  },
-  {
-    "name": "Stupid Zombies",
-    "image": "https://tag-2.github.io/img/stupid-zombies.png",
-    "url": "https://tag-2.github.io/a3/stupid-zombies/"
-  },
-  {
-    "name": "Grand Prix Hero",
-    "image": "https://tag-2.github.io/img/grand-prix-hero.png",
-    "url": "https://tag-2.github.io/a4/grand-prix-hero"
-  },
-  {
-    "name": "Idle Ants",
-    "image": "https://tag-2.github.io/img/idle-ants.png",
-    "url": "https://tag-2.github.io/a5/idle-ants/"
-  },
-  {
-    "name": "Tag 2",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/tag2.png",
-    "url": "https://tag-2.github.io/a77/tag-2/"
-  },
-  {
-    "name": "G Switch 3",
-    "image": "https://tag-2.github.io/img/g-switch-3.png",
-    "url": "https://tag-2.github.io/a4/g-switch-3//"
-  },
-  {
     "name": "Cell Machine",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/cellmachine.png",
     "url": "https://lite.3kh0.net/projects/cell-machine/"
@@ -317,22 +287,22 @@
   {
     "name": "Moto X3M",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/motox3m.jpeg",
-    "url": "https://3kho.github.io/projects/motox3m/index.html"
+    "url": "https://lite.3kh0.net/projects/motox3m/"
   },
   {
     "name": "Moto X3M Pool",
     "image": "https://tag-2.github.io/img/moto-x3m-pool-party.png",
-    "url": "https://tag-2.github.io/a/moto-x3m-pool-party"
+    "url": "https://lite.3kh0.net/projects/motox3m-pool/"
   },
   {
     "name": "Moto X3M Spooky",
     "image": "https://tag-2.github.io/img/moto-x3m-spooky-land.png",
-    "url": "https://tag-2.github.io/a/moto-x3m-spooky-land/"
+    "url": "https://lite.3kh0.net/projects/motox3m-spooky/"
   },
   {
     "name": "Moto X3M Winter",
     "image": "https://tag-2.github.io/img/moto-x3m-winter.png",
-    "url": "https://tag-2.github.io/a/moto-x3m-winter/"
+    "url": "https://lite.3kh0.net/projects/motox3m-winter/"
   },
   {
     "name": "Tunnel Rush",
