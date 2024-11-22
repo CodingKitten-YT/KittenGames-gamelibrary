@@ -79,13 +79,13 @@
   },
   {
     "name": "Clicker Heroes",
-    "type": "clicker",
+    "type": "idle",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/heroes.jpeg",
     "url": "https://projectassets.teacherease.net/clicker-heroes-updated/index.html"
   },
   {
     "name": "Cookie Clicker",
-    "type": "clicker",
+    "type": "idle",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/cookieclicker.png",
     "url": "https://projectassets.teacherease.net/cookie-clicker/index.html"
   },
