@@ -285,13 +285,13 @@
     "name": "Drift Boss",
     "type": "skill",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/Driftboss.png",
-    "url": "https://www.hoodamath.com/mobile/games/drift-boss/game.html"
+    "url": "https://ubg98.github.io/DriftBoss/"
   },
   {
     "name": "Flappy Bird",
     "type": "skill",
     "image": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png",
-    "url": "https://www.hoodamath.com/mobile/games/flappy-bird/game.html"
+    "url": "https://jxmked.github.io/Flappybird/"
   },
   {
     "name": "Eggy Car",
@@ -303,7 +303,7 @@
     "name": "OVO",
     "type": "platformer",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/ovo.jpeg",
-    "url": "https://purepro4561.github.io/OvO/"
+    "url": "https://ovo-modloader.github.io/versions/1.4.4b/index.html"
   },
   {
     "name": "Slope",
@@ -460,12 +460,6 @@
     "type": "skill",
     "image": "https://s3.us-east-2.amazonaws.com/wickeyappstore/assets/Random/41NgOgTVblL.png",
     "url": "https://binbashbanana.github.io/gfiles/gfiles/html5/2048/"
-  },
-  {
-    "name": "Snail Bob 8",
-    "type": "puzzle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/snailbob8.jpeg",
-    "url": "https://ubg98.github.io/SnailBob8/"
   },
   {
     "name": "Jack Smith",
