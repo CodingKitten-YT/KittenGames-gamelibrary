@@ -1,9 +1,21 @@
 [
   {
-    "name": "Unblocked Browser",
-    "type": "other",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/browser.png",
-    "url": "https://interesantedividoelmesa.pimp.co.za/"
+    "name": "GROWMI",
+    "type": "puzzle",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/growmi.png",
+    "url": "https://ghgstore311.github.io/g4/class-182/"
+  },
+  {
+    "name": "Stacktris",
+    "type": "skill",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/stacktris.png",
+    "url": "https://ghgstore311.github.io/g2/class-417/"
+  },
+  {
+    "name": "Tag 2",
+    "type": "skill",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/tag2.png",
+    "url": "https://ghgstore311.github.io/g22/class-364"
   },
   {
     "name": "Gladihoppers",
