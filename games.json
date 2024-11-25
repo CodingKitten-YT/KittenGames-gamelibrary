@@ -6,6 +6,12 @@
     "url": "https://ghgstore311.github.io/g4/class-182/"
   },
   {
+    "name": "Shootz",
+    "type": "shooter",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/shootz.png",
+    "url": "https://ghgstore311.github.io/g22/class-394"
+  },
+  {
     "name": "Stacktris",
     "type": "skill",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/stacktris.png",
