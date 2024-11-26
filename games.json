@@ -1,5 +1,11 @@
 [
   {
+    "name": "Dyna Boy",
+    "type": "platformer",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/dynaboy.png",
+    "url": "https://ghgstore311.github.io/g74/class-262"
+  },
+  {
     "name": "GROWMI",
     "type": "puzzle",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/growmi.png",
