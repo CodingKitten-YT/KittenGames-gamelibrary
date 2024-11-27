@@ -1,5 +1,17 @@
 [
   {
+    "name": "Zombie Outbreak",
+    "type": "shooter",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/outbreak.png",
+    "url": "https://class1811.github.io/g74/class-237"
+  },
+  {
+    "name": "OVO Dimensions",
+    "type": "platformer",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/class-14.png",
+    "url": "https://class1811.github.io/g50/class-14"
+  },
+  {
     "name": "Dyna Boy",
     "type": "platformer",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/dynaboy.png",
