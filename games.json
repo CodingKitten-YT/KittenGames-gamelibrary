@@ -1,5 +1,23 @@
 [
   {
+    "name": "Rhomb",
+    "type": "puzzle",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/rhomb.png",
+    "url": "https://class1811.github.io/g4/class-187"
+  },
+  {
+    "name": "Cubinko",
+    "type": "puzzle",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/cubinko.png",
+    "url": "https://class1811.github.io/g6/class-161"
+  },
+  {
+    "name": "Trap the cat",
+    "type": "puzzle",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/trap.jpeg",
+    "url": "https://class1811.github.io/g26/class-494"
+  },
+  {
     "name": "Zombie Outbreak",
     "type": "shooter",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/outbreak.png",
