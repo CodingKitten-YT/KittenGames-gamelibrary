@@ -1,5 +1,11 @@
 [
   {
+    "name": "Pepernotensjoelen",
+    "type": "skill",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Sjoelen.png",
+    "url": "https://cdn-sinterklaasjournaal.ntr.nl/assets/games/2024/pietengames-2019/sjoelen.html"
+  },
+  {
     "name": "Rhomb",
     "type": "puzzle",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/rhomb.png",
