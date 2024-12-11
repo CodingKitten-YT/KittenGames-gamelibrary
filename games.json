@@ -1,5 +1,11 @@
 [
   {
+    "name": "Choppy Orc",
+    "type": "skill",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/orc.jpeg",
+    "url": "https://ucbg.github.io/choppy-orc/"
+  },
+  {
     "name": "Pepernotensjoelen",
     "type": "skill",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Sjoelen.png",
