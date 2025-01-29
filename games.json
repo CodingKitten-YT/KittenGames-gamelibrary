@@ -1,5 +1,11 @@
 [
   {
+    "name": "Geometry Dash",
+    "type": "skill",
+    "image": "https://smashkartsonlinegames.github.io/imgs/geometry-dash.png",
+    "url": "https://smashkartsonlinegames.github.io/v8/geometry-dash/"
+  },
+  {
     "name": "Slope 2",
     "type": "skill",
     "image": "https://smashkartsonlinegames.github.io/imgs/slope-2.png",
