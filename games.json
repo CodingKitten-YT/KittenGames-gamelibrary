@@ -1,5 +1,11 @@
 [
   {
+    "name": "Fire Boy and Water Girl",
+    "type": "puzzle",
+    "image": "https://6x-classrooms.github.io/img/57.webp",
+    "url": "https://2048taylorswift.github.io/factoryballsforever/"
+  },
+  {
     "name": "Geometry Dash",
     "type": "skill",
     "image": "https://smashkartsonlinegames.github.io/imgs/geometry-dash.png",
