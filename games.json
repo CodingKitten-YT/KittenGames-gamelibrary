@@ -1,5 +1,11 @@
 [
   {
+    "name": "Slope 2",
+    "type": "skill",
+    "image": "https://smashkartsonlinegames.github.io/imgs/slope-2.png",
+    "url": "https://smashkartsonlinegames.github.io/v6/slope-2/"
+  },
+  {
     "name": "Stickman GTA City",
     "type": "shooter",
     "image": "https://freezenova.gitlab.io/assets/upload/freezenova/jpg/stickman-gta-city.jpg",
