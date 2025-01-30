@@ -1,11 +1,5 @@
 [
   {
-    "name": "Eaglercraft",
-    "type": "skill",
-    "image": "https://games-site.github.io/projects/minecraft/thumb.png",
-    "url": "https://eaglercraft.com/mc/1.8.8/"
-  },
-  {
     "name": "12 Mini Battles",
     "type": "skill",
     "image": "https://smashkartsonlinegames.github.io/imgs/12-minibattles.png",
@@ -125,6 +119,12 @@
     "type": "skill",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/stacktris.png",
     "url": "https://ghgstore311.github.io/g2/class-417/"
+  },
+  {
+    "name": "Eaglercraft",
+    "type": "skill",
+    "image": "https://games-site.github.io/projects/minecraft/thumb.png",
+    "url": "https://eaglercraft.com/mc/1.8.8/"
   },
   {
     "name": "Tag 2",
