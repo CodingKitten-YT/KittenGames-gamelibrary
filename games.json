@@ -1,5 +1,11 @@
 [
   {
+    "name": "Big Tall Small",
+    "type": "puzzle",
+    "image": "https://smashkartsonlinegames.github.io/imgs/big-tall-small.png",
+    "url": "https://smashkartsonlinegames.github.io/v8/big-tall-small"
+  },
+  {
     "name": "Recoil",
     "type": "puzzle",
     "image": "https://smashkartsonlinegames.github.io/imgs/recoil.png",
