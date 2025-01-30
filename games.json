@@ -1,5 +1,11 @@
 [
   {
+    "name": "Recoil",
+    "type": "puzzle",
+    "image": "https://smashkartsonlinegames.github.io/imgs/recoil.png",
+    "url": "https://smashkartsonlinegames.github.io/v6/recoil"
+  },
+  {
     "name": "Among Us",
     "type": "puzzle",
     "image": "https://smashkartsonlinegames.github.io/imgs/among-us.png",
