@@ -1,5 +1,12 @@
 [
   {
+    "name": "12 Mini Battles",
+    "type": "skill",
+    "image": "https://smashkartsonlinegames.github.io/imgs/12-minibattles.png",
+    "url": "https://smashkartsonlinegames.github.io/v2/12-minibattles"
+  },
+
+  {
     "name": "Blumgi Ball",
     "type": "skill",
     "image": "https://smashkartsonlinegames.github.io/imgs/blumgi-ball.png",
