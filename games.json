@@ -1,5 +1,11 @@
 [
   {
+    "name": "Eaglercraft",
+    "type": "skill",
+    "image": "https://smashkartsonlinegames.github.io/imgs/12-minibattles.png",
+    "url": "https://eaglercraft.com/mc/1.8.8/"
+  },
+  {
     "name": "12 Mini Battles",
     "type": "skill",
     "image": "https://smashkartsonlinegames.github.io/imgs/12-minibattles.png",
