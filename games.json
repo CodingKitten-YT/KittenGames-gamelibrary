@@ -86,6 +86,18 @@
     "url": "https://ucbg.github.io/choppy-orc/"
   },
   {
+    "name": "Pepernoten Pong",
+    "type": "skill",
+    "image": "https://api.sinterklaasjournaal.nl/thumbs/i/0/mod_media_image/72.w640.r640-360.75ed908.png",
+    "url": "https://cdn-sinterklaasjournaal.ntr.nl/assets/games/2023/pietengames-2016/pong.html"
+  },
+  {
+    "name": "Pieten Sprong",
+    "type": "skill",
+    "image": "https://api.sinterklaasjournaal.nl/thumbs/i/0/mod_media_image/294.w640.r640-360.683956a.png",
+    "url": "https://cdn-sinterklaasjournaal.ntr.nl/assets/games/2023/pietengames-2018/pietenjump.html"
+  },
+  {
     "name": "Pepernotensjoelen",
     "type": "skill",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Sjoelen.png",
