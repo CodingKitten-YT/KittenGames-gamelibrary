@@ -1,5 +1,24 @@
 [
   {
+    "name": "Boxing Random",
+    "type": "skill",
+    "image": "https://games-site.github.io/projects/boxing-random/unnamed.png",
+    "url": "https://games-site.github.io/projects/volley-random/frame.html"
+  },
+  {
+    "name": "Volley Random",
+    "type": "skill",
+    "image": "https://games-site.github.io/projects/volley-random/unnamed.png",
+    "url": "https://games-site.github.io/projects/boxing-random/frame.html"
+  },
+  {
+    "name": "Soccer Random",
+    "type": "skill",
+    "image": "https://games-site.github.io/projects/soccer-random/unnamed.png",
+    "url": "https://games-site.github.io/projects/soccer-random/frame.html"
+  },
+
+  {
     "name": "Geometry Dash SubZero",
     "type": "skill",
     "image": "https://games-site.github.io/projects/geodash-subzero/geodash-subzero.png",
@@ -596,7 +615,7 @@
     "name": "Basket Random",
     "type": "skill",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/basketrandom.png",
-    "url": "https://silkmajoritydifference.github.io/basket-random/"
+    "url": "https://games-site.github.io/projects/basket-random/frame.html"
   },
   {
     "name": "Gun Mayhem",
