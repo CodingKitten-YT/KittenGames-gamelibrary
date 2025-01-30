@@ -1,5 +1,11 @@
 [
   {
+    "name": "Block Blast",
+    "type": "puzzle",
+    "image": "https://coolubg.github.io/images/games/block-blast.png",
+    "url": "blob:https://coolubg.github.io/d349ba2f-85f3-40ba-88af-bb3cc9d6e43b"
+  },
+  {
     "name": "12 Mini Battles",
     "type": "skill",
     "image": "https://smashkartsonlinegames.github.io/imgs/12-minibattles.png",
