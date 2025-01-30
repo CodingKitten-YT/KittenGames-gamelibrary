@@ -1,5 +1,11 @@
 [
   {
+    "name": "Geometry Dash SubZero",
+    "type": "skill",
+    "image": "https://games-site.github.io/projects/geodash-subzero/geodash-subzero.png",
+    "url": "https://games-site.github.io/projects/geodash-subzero/index.html"
+  },
+  {
     "name": "12 Mini Battles",
     "type": "skill",
     "image": "https://smashkartsonlinegames.github.io/imgs/12-minibattles.png",
