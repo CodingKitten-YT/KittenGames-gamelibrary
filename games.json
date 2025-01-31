@@ -301,6 +301,36 @@
     "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/vex2.swf&aspect=8:7"
   },
   {
+    "name": "Vex 4",
+    "type": "platformer",
+    "image": "https://math181124.github.io/img/class-567.png",
+    "url": "https://math181124.github.io/g/class-567/"
+  }, 
+  {
+    "name": "Vex 5",
+    "type": "platformer",
+    "image": "https://math181124.github.io/img/class-493.png",
+    "url": "https://math181124.github.io/g26/class-493/"
+  },  
+  {
+    "name": "Vex 6",
+    "type": "platformer",
+    "image": "https://math181124.github.io/img/class-809.png",
+    "url": "https://math181124.github.io/g/class-809"
+  },
+  {
+    "name": "Vex 7",
+    "type": "platformer",
+    "image": "https://math181124.github.io/img/class-510.png",
+    "url": "https://math181124.github.io/g/class-510"
+  },   
+  {
+    "name": "Vex 8",
+    "type": "platformer",
+    "image": "https://math181124.github.io/img/class-245.png",
+    "url": "https://ubg98.github.io/Vex8/"
+  },    
+  {
     "name": "Hobo 1",
     "type": "battle",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo1.jpeg",
