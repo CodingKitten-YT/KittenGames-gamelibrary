@@ -60,20 +60,12 @@
     "image": "https://games-site.github.io/projects/soccer-random/unnamed.png",
     "url": "https://games-site.github.io/projects/soccer-random/frame.html"
   },
-
-  {
-    "name": "Geometry Dash SubZero",
-    "type": "skill",
-    "image": "https://games-site.github.io/projects/geodash-subzero/geodash-subzero.png",
-    "url": "https://games-site.github.io/projects/geodash-subzero/index.html"
-  },
   {
     "name": "12 Mini Battles",
     "type": "skill",
     "image": "https://smashkartsonlinegames.github.io/imgs/12-minibattles.png",
     "url": "https://smashkartsonlinegames.github.io/v2/12-minibattles"
   },
-
   {
     "name": "Blumgi Ball",
     "type": "skill",
@@ -97,6 +89,12 @@
     "type": "puzzle",
     "image": "https://6x-classrooms.github.io/img/57.webp",
     "url": "https://2048taylorswift.github.io/factoryballsforever/"
+  },
+  {
+    "name": "Geometry Dash SubZero",
+    "type": "skill",
+    "image": "https://games-site.github.io/projects/geodash-subzero/geodash-subzero.png",
+    "url": "https://games-site.github.io/projects/geodash-subzero/index.html"
   },
   {
     "name": "Geometry Dash",
