@@ -1,5 +1,11 @@
 [
   {
+    "name": "Crossy Road",
+    "type": "platformer",
+    "image": "https://unblocked-games-onlines.github.io/imgs/crossy-road.png",
+    "url": "https://unblocked-games-onlines.github.io/u/crossy-road/"
+  },
+  {
     "name": "Boxing Random",
     "type": "skill",
     "image": "https://games-site.github.io/projects/boxing-random/unnamed.png",
