@@ -1,5 +1,11 @@
 [
   {
+    "name": "Parkour Race",
+    "type": "platformer",
+    "image": "https://tataedu23.github.io/img/class-830.png",
+    "url": "https://tataedu23.github.io/g77/class-830"
+  },
+  {
     "name": "Stickman Hook",
     "type": "platformer",
     "image": "https://unblocked-games-onlines.github.io/imgs/stickman-hook.png",
