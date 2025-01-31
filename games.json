@@ -43,6 +43,12 @@
     "url": "https://games-site.github.io/projects/boxing-random/frame.html"
   },
   {
+    "name": "Basket Random",
+    "type": "skill",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/basketrandom.png",
+    "url": "https://games-site.github.io/projects/basket-random/frame.html"
+  },
+  {
     "name": "Volley Random",
     "type": "skill",
     "image": "https://games-site.github.io/projects/volley-random/unnamed.png",
@@ -659,12 +665,6 @@
     "type": "idle",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/monkeymart.jpeg",
     "url": "https://silkmajoritydifference.github.io/sources/monkey-mart"
-  },
-  {
-    "name": "Basket Random",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/basketrandom.png",
-    "url": "https://games-site.github.io/projects/basket-random/frame.html"
   },
   {
     "name": "Gun Mayhem",
