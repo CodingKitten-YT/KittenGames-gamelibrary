@@ -9,13 +9,13 @@
     "name": "Boxing Random",
     "type": "skill",
     "image": "https://games-site.github.io/projects/boxing-random/unnamed.png",
-    "url": "https://games-site.github.io/projects/volley-random/frame.html"
+    "url": "https://games-site.github.io/projects/boxing-random/frame.html"
   },
   {
     "name": "Volley Random",
     "type": "skill",
     "image": "https://games-site.github.io/projects/volley-random/unnamed.png",
-    "url": "https://games-site.github.io/projects/boxing-random/frame.html"
+    "url": "https://games-site.github.io/projects/volley-random/frame.html"
   },
   {
     "name": "Soccer Random",
