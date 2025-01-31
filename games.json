@@ -1,5 +1,11 @@
 [
    {
+    "name": "Europe Cup ",
+    "type": "Skill",
+    "image": "https://math181124.github.io/img/class-429.png",
+    "url": "https://math181124.github.io/g2/class-429"
+  },
+  {
     "name": "Temple of Boom",
     "type": "platformer",
     "image": "https://math181124.github.io/img/class-411.png",
