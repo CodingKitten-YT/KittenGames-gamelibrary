@@ -1,4 +1,10 @@
 [
+   {
+    "name": "Temple of Boom",
+    "type": "platformer",
+    "image": "https://math181124.github.io/img/class-411.png",
+    "url": "https://soccer-random.github.io/a3/temple-of-boom/"
+  },
   {
     "name": "Parkour Race",
     "type": "platformer",
