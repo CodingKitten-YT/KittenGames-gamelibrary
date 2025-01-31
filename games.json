@@ -73,6 +73,12 @@
     "url": "https://smashkartsonlinegames.github.io/v2/blumgi-ball"
   },
   {
+    "name": "Blumgi Rocket",
+    "type": "racing",
+    "image": "https://webglmath.github.io/blumgi-rocket/logo.png",
+    "url": "https://webglmath.github.io/blumgi-rocket/"
+  },
+  {
     "name": "Recoil",
     "type": "puzzle",
     "image": "https://smashkartsonlinegames.github.io/imgs/recoil.png",
@@ -497,12 +503,6 @@
     "type": "skill",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/hardestgame.jpeg",
     "url": "https://webglmath.github.io/worlds-hardest-game/"
-  },
-  {
-    "name": "Blumgi Rocket",
-    "type": "racing",
-    "image": "https://webglmath.github.io/blumgi-rocket/logo.png",
-    "url": "https://webglmath.github.io/blumgi-rocket/"
   },
   {
     "name": "Bitlife",
