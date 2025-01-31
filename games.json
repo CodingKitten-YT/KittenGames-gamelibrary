@@ -259,6 +259,12 @@
     "url": "https://hypackelgames.firebaseapp.com/files/gladihoppers/game.html"
   },
   {
+    "name": "Idle Ants",
+    "type": "puzzle",
+    "image": "https://math181124.github.io/img/class-631.png",
+    "url": "https://class1811.github.io/g6/class-631"
+  }, 
+  {
     "name": "Yarn",
     "type": "platformer",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/yarn.jpeg",
