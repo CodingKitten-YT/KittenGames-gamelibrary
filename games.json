@@ -1,5 +1,11 @@
 [
    {
+    "name": "Gunspin",
+    "type": "shooter",
+    "image": "https://smashkartsonline.github.io/img/class-533.png",
+    "url": "https://smashstore2212.github.io/g5/class-533"
+  },
+  {
     "name": "Shell Shockers Multiplayer",
     "type": "shooter",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/shell.jpg",
