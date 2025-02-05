@@ -1,5 +1,11 @@
 [
   {
+    "name": "Golfinity",
+    "type": "skill",
+    "image": "https://math181124.github.io/img/class-777.png",
+    "url": "https://math181124.github.io/g9/class-777"
+  },
+  {
     "name": "Rocket League",
     "type": "racing",
     "image": "https://math181124.github.io/img/class-527.png",
