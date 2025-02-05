@@ -145,6 +145,12 @@
     "url": "https://smashkartsonlinegames.github.io/v2/blumgi-ball"
   },
   {
+    "name": "Blumgi Slime",
+    "type": "Skill",
+    "image": "https://math181124.github.io/img/class-421.png",
+    "url": "https://math181124.github.io/g16/class-421"
+  }, 
+  {
     "name": "Blumgi Bloom",
     "type": "Skill",
     "image": "https://math181124.github.io/img/class-183.png",
