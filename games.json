@@ -1,5 +1,11 @@
 [
   {
+    "name": "DreadHead Parkour",
+    "type": "platformer",
+    "image": "https://math181124.github.io/img/class-412.png",
+    "url": "https://math181124.github.io/g97/class-412"
+  },
+  {
     "name": "Golfinity",
     "type": "skill",
     "image": "https://math181124.github.io/img/class-777.png",
