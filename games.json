@@ -1,5 +1,11 @@
 [
   {
+    "name": "Fruit Ninja",
+    "type": "Skill",
+    "image": "https://math181124.github.io/img/class-22.png",
+    "url": "https://math181124.github.io/g50/class-22"
+  },
+  {
     "name": "G-Switch 4",
     "type": "Skill",
     "image": "https://math181124.github.io/img/class-366.png",
