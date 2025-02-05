@@ -1,5 +1,11 @@
 [
   {
+    "name": "Rocket League",
+    "type": "racing",
+    "image": "https://math181124.github.io/img/class-527.png",
+    "url": "https://math181124.github.io/g2/class-527"
+  },
+  {
     "name": "Fruit Ninja",
     "type": "Skill",
     "image": "https://math181124.github.io/img/class-22.png",
