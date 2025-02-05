@@ -1,5 +1,11 @@
 [
-     {
+          {
+    "name": "Master Chess",
+    "type": "Skill",
+    "image": "https://math181124.github.io/img/class-506.png",
+    "url": "https://math181124.github.io/g97/class-506"
+  },
+  {
     "name": "Bob The Robber 4",
     "type": "platformer",
     "image": "https://math181124.github.io/img/class-568.png",
