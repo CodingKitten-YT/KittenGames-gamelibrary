@@ -1,5 +1,11 @@
 [
-          {
+  {
+    "name": "YoHoHo.io",
+    "type": "Skill",
+    "image": "https://math181124.github.io/img/class-828.png",
+    "url": "https://math181124.github.io/g77/class-828"
+  },
+  {
     "name": "Master Chess",
     "type": "Skill",
     "image": "https://math181124.github.io/img/class-506.png",
