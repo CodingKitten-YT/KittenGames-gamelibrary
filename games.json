@@ -1,5 +1,11 @@
 [
-    {
+     {
+    "name": "Bob The Robber 4",
+    "type": "platformer",
+    "image": "https://math181124.github.io/img/class-568.png",
+    "url": "https://math181124.github.io/g97/class-568"
+  },
+  {
     "name": "Decent",
     "type": "platformer",
     "image": "https://math181124.github.io/img/class-377.png",
