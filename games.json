@@ -1,5 +1,11 @@
 [
-   {
+    {
+    "name": "Dadish",
+    "type": "platformer",
+    "image": "https://math181124.github.io/img/class-86.png",
+    "url": "https://math181124.github.io/g7/class-86"
+  },
+  {
     "name": "Gunspin",
     "type": "shooter",
     "image": "https://smashkartsonline.github.io/img/class-533.png",
