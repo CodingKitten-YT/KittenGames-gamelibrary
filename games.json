@@ -1,5 +1,11 @@
 [
     {
+    "name": "Decent",
+    "type": "platformer",
+    "image": "https://math181124.github.io/img/class-377.png",
+    "url": "https://math181124.github.io/g22/class-377"
+  },
+  {
     "name": "Dadish",
     "type": "platformer",
     "image": "https://math181124.github.io/img/class-86.png",
