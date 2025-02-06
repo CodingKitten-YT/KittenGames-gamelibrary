@@ -1,5 +1,11 @@
 [
   {
+    "name": "World Cup",
+    "type": "skill",
+    "image": "https://math181124.github.io/img/class-423.png",
+    "url": "https://math181124.github.io/g2/class-423/#topvaz"
+  },
+  {
     "name": "Champions League",
     "type": "skill",
     "image": "https://math181124.github.io/img/class-588.png",
