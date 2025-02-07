@@ -1,11 +1,5 @@
 [
   {
-    "name": "Masked Forces",
-    "type": "shooter",
-    "image": "https://soccer-random.github.io/img/masked-forces.png",
-    "url": "https://soccer-random.github.io/a8/masked-forces"
-  },
-  {
     "name": "Bob The Robber 2",
     "type": "platformer",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw59iLJAtOduB0YBrax8nKxyX36En3QFls6Q&s",
