@@ -1,4 +1,10 @@
 [
+  {
+    "name": "Blumgi Castle",
+    "type": "Battle",
+    "image": "https://math181124.github.io/img/class-427.png",
+    "url": "https://math181124.github.io/g16/class-427"
+  },
  {
     "name": "Stickman Ragdoll Fight",
     "type": "battle",
