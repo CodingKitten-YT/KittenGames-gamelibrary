@@ -1,5 +1,11 @@
 [
   {
+    "name": "Swingo",
+    "type": "Platformer",
+    "image": "https://math181124.github.io/img/class-636.png",
+    "url": "https://math181124.github.io/g69/class-636"
+  },
+  {
     "name": "Blumgi Castle",
     "type": "Battle",
     "image": "https://math181124.github.io/img/class-427.png",
