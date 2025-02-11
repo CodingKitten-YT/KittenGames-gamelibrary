@@ -1,7 +1,19 @@
 [
  {
+    "name": "Stickman Run",
+    "type": "platformer",
+    "image": "https://math181124.github.io/img/class-74.png",
+    "url": "https://math181124.github.io/g7/class-74"
+  },
+ {
+    "name": "Mimelet",
+    "type": "platformer",
+    "image": "https://math181124.github.io/img/class-140.png",
+    "url": "https://math181124.github.io/g8/class-140"
+  },
+ {
     "name": "Stickman Parkour 3",
-    "type": "Skill",
+    "type": "platformer",
     "image": "https://math181124.github.io/img/class-75.png",
     "url": "https://math181124.github.io/g7/class-75"
   },
