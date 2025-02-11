@@ -1,5 +1,11 @@
 [
  {
+    "name": "Stickman Ragdoll Fight",
+    "type": "battle",
+    "image": "https://math181124.github.io/img/class-281.png",
+    "url": "https://math181124.github.io/g177/class-281"
+  },
+ {
     "name": "Stickman Run",
     "type": "platformer",
     "image": "https://math181124.github.io/img/class-74.png",
