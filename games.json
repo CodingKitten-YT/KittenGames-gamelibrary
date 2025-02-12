@@ -1,5 +1,11 @@
 [
   {
+    "name": "Level Devil",
+    "type": "Platformer",
+    "image": "https://math181124.github.io/img/class-356.png",
+    "url": "https://math181124.github.io/g22/class-356"
+  },
+  {
     "name": "Super Speeder",
     "type": "Skill",
     "image": "https://math181124.github.io/img/class-82.png",
