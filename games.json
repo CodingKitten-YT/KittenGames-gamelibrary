@@ -1,5 +1,11 @@
 [
   {
+    "name": "Stick Defenders",
+    "type": "Shooter",
+    "image": "https://math181124.github.io/img/class-416.png",
+    "url": "https://math181124.github.io/g2/class-416"
+  },
+  {
     "name": "Level Devil",
     "type": "Platformer",
     "image": "https://math181124.github.io/img/class-356.png",
