@@ -1,4 +1,10 @@
 [
+   {
+    "name": "Gobble",
+    "type": "Skill",
+    "image": "https://math181124.github.io/img/class-420.png",
+    "url": "https://math181124.github.io/g9/class-420"
+  },
   {
     "name": "Stick Defenders",
     "type": "Shooter",
