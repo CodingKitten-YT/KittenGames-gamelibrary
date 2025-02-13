@@ -1,5 +1,11 @@
 [
    {
+    "name": "Wikipedia Speedruns",
+    "type": "Skill",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Wikipedia-logo_ka.png",
+    "url": "https://wikispeedruns.com/"
+   },
+   {
     "name": "Gobble",
     "type": "Skill",
     "image": "https://math181124.github.io/img/class-420.png",
