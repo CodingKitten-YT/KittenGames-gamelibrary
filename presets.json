@@ -9,6 +9,11 @@
     "tabName": "Google Docs",
     "tabIcon": "https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico"
   },
+    {
+    "name": "Somtoday",
+    "tabName": "Somtoday",
+    "tabIcon": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://som.today&size=256"
+  },
   {
     "name": "Custom",
     "tabName": "",
