@@ -1,5 +1,11 @@
 [
    {
+    "name": "City Guesser",
+    "type": "Skill",
+    "image": "https://static.wikia.nocookie.net/logopedia/images/0/02/GeoGuessr_App_Store_app_icon.png/revision/latest/scale-to-width-down/250?cb=20230314122612",
+    "url": "https://virtualvacation.us/guess"
+   },
+   {
     "name": "Wikipedia Speedruns",
     "type": "Skill",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Wikipedia-logo_ka.png",
