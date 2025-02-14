@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Google Drive",
+    "tabName": "My Drive - Google Drive",
+    "tabIcon": "https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png"
+  },
+  {
+    "name": "Google Docs",
+    "tabName": "Google Docs",
+    "tabIcon": "https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico"
+  },
+  {
+    "name": "Custom",
+    "tabName": "",
+    "tabIcon": ""
+  }
+]
