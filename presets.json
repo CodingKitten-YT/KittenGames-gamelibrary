@@ -1,5 +1,10 @@
 [
   {
+    "name": "Malmberg",
+    "tabName": "Malmberg",
+    "tabIcon": "https://www.malmberg.nl/favicon.ico"
+  },
+  {
     "name": "Google Drive",
     "tabName": "My Drive - Google Drive",
     "tabIcon": "https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png"
