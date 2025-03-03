@@ -1,5 +1,17 @@
 [
    {
+    "name": "Age of War",
+    "type": "idle",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/agewar.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/agewar.sfw"
+   },
+   {
+    "name": "Age of War 2",
+    "type": "idle",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/agewar2.webp",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/agewar2.sfw"
+   },
+   {
     "name": "Earthwalker",
     "type": "Skill",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjaCnSCafh1oPQMXSuZQ0adV5q7KA5lqJ-Q&s",
