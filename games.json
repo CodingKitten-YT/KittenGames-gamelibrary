@@ -285,8 +285,8 @@
   {
     "name": "Blumgi Rocket",
     "type": "racing",
-    "image": "https://webglmath.github.io/blumgi-rocket/logo.png",
-    "url": "https://webglmath.github.io/blumgi-rocket/"
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/blumgirocket.jpeg",
+    "url": "https://majesticwafer.github.io/BlumgiRocket/"
   },
   {
     "name": "Recoil",
