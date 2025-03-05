@@ -771,28 +771,10 @@
     "url": "https://23azostore.github.io/s/tiny-fishing/"
   },
   {
-    "name": "Stack Bounce",
-    "type": "skill",
-    "image": "https://webglmath.github.io/stackbounce/logo.png",
-    "url": "https://webglmath.github.io/stackbounce/"
-  },
-  {
-    "name": "Mr Bullet",
-    "type": "puzzle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/bulletnr.jpeg",
-    "url": "https://webglmath.github.io/mr-bullet/"
-  },
-  {
     "name": "Drive Mad",
     "type": "racing",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/drivemad.jpeg",
     "url": "https://ubg77.github.io/game131022/drive-mad/"
-  },
-  {
-    "name": "Worlds Hardest Game",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/hardestgame.jpeg",
-    "url": "https://webglmath.github.io/worlds-hardest-game/"
   },
   {
     "name": "Bitlife",
