@@ -21,7 +21,7 @@
     "newtab": true
    },
    {
-    "name": "Earthwalker",
+    "name": "Geo Guesser",
     "type": "Skill",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjaCnSCafh1oPQMXSuZQ0adV5q7KA5lqJ-Q&s",
     "url": "https://earthwalker.codingkitten.hackclub.app",
@@ -449,7 +449,7 @@
     "url": "https://ghgstore311.github.io/g2/class-417/"
   },
   {
-    "name": "Eaglercraft",
+    "name": "Minecraft",
     "type": "skill",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/eaglercraft.jpeg",
     "url": "https://irv77.github.io/AmplerLauncher/"
