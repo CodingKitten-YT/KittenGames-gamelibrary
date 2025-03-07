@@ -1,5 +1,10 @@
 [
   {
+    "name": "Somtoday",
+    "tabName": "Somtoday",
+    "tabIcon": "https://files.catbox.moe/o45elw.ico"
+  },
+  {
     "name": "Malmberg",
     "tabName": "Malmberg",
     "tabIcon": "https://www.malmberg.nl/favicon.ico"
@@ -13,11 +18,6 @@
     "name": "Google Docs",
     "tabName": "Google Docs",
     "tabIcon": "https://ssl.gstatic.com/docs/documents/images/kix-favicon7.ico"
-  },
-  {
-    "name": "Somtoday",
-    "tabName": "Somtoday",
-    "tabIcon": "https://files.catbox.moe/o45elw.ico"
   },
   {
     "name": "Custom",
