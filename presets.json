@@ -5,6 +5,11 @@
     "tabIcon": "https://files.catbox.moe/o45elw.ico"
   },
   {
+    "name": "Studygo",
+    "tabName": "StudyGo",
+    "tabIcon": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/studyg.png"
+  },
+  {
     "name": "Noordhoff",
     "tabName": "Noordhoff",
     "tabIcon": "https://www.noordhoff.nl/favicon.ico"
