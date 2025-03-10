@@ -5,6 +5,11 @@
     "tabIcon": "https://files.catbox.moe/o45elw.ico"
   },
   {
+    "name": "Blink",
+    "tabName": "Blink Leerwerk",
+    "tabIcon": "https://leerling.blink.nl/statics/favicon/blink.ico"
+  },
+  {
     "name": "Studygo",
     "tabName": "StudyGo",
     "tabIcon": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/studyg.png"
