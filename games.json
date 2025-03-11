@@ -1,5 +1,11 @@
 [
    {
+    "name": "Bingding of isaac : wrath of the lamb",
+    "type": "idle",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/rah.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/bindisaac.swf"
+   },
+   {
     "name": "Polytrack",
     "type": "racing",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/polytrack.jpg",
