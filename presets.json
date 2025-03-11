@@ -4,6 +4,11 @@
     "tabName": "Somtoday",
     "tabIcon": "https://files.catbox.moe/o45elw.ico"
   },
+    {
+    "name": "Gmail",
+    "tabName": "Inbox",
+    "tabIcon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"
+  },
   {
     "name": "Blink",
     "tabName": "Blink Leerlingwerk",
