@@ -1,0 +1,17 @@
+{
+  "popup": {
+    "enabled": true,
+    "title": "Free movies!",
+    "message": "I recently built this app that allows you to watch any movie or tv show for free!",
+    "project": {
+      "name": "KittenFlix",
+      "description": "Free movies for everyone",
+      "url": "https://kitten-flix.vercel.app",
+      "image": "https://files.catbox.moe/w00wrg.png"
+    },
+    "button": {
+      "text": "Learn More",
+      "url": "https://crosspaste.example.com"
+    }
+  }
+}
