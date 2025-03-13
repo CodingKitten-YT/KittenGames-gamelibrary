@@ -7,7 +7,7 @@
       "name": "KittenFlix",
       "description": "Free movies for everyone",
       "url": "https://kitten-flix.vercel.app",
-      "image": "https://files.catbox.moe/w00wrg.png"
+      "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/kittenflix.png"
     },
     "button": {
       "text": "Watch now",
