@@ -2,10 +2,8 @@
   "popup": {
     "enabled": true,
     "title": "Free movies!",
-    "message": "I recently built this app that allows you to watch any movie or tv show for free!",
+    "message": "I built KittenFlix as a free way to stream movies and TV shows—no subscriptions, no hidden fees. Just hit play and start watching!",
     "project": {
-      "name": "KittenFlix",
-      "description": "Free movies for everyone",
       "url": "https://kitten-flix.vercel.app",
       "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/kittenflix.png"
     },
