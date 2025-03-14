@@ -1,5 +1,11 @@
 [
    {
+      "name":"Cookie Clicker",
+      "type":"Idle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/cookieclicker.png",
+      "url":"https://cookie-clicker-online.github.io/file/"
+   },
+   {
       "name":"Lingo",
       "type":"Skill",
       "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/lingo.jpeg",
