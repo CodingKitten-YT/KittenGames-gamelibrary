@@ -1,996 +1,1002 @@
 [
-    {
-    "name": "Banana Poker",
-    "type": "Skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/bana.jpeg",
-    "url": "https://www.culinaryschools.org/kids-games/banana-poker/game.php",
-    "newtab": true
+   {
+      "name":"Lingo",
+      "type":"Skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/lingo.jpeg",
+      "url":"https://www.lingospelen.nl/",
+      "newtab":true
    },
    {
-    "name": "Bingding of isaac : wrath of the lamb",
-    "type": "idle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/iss.png",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/bindisaac.swf"
+      "name":"Banana Poker",
+      "type":"Skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/bana.jpeg",
+      "url":"https://www.culinaryschools.org/kids-games/banana-poker/game.php",
+      "newtab":true
    },
    {
-    "name": "Polytrack",
-    "type": "racing",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/polytrack.jpg",
-    "url": "https://shookcheeto.shokodeal.ru/gf/polytrack.html"
+      "name":"Bingding of isaac : wrath of the lamb",
+      "type":"idle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/iss.png",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/bindisaac.swf"
    },
    {
-    "name": "Bomb Word Filler",
-    "type": "skill",
-    "image": "https://cdn.pixabay.com/photo/2017/01/31/16/59/bomb-2025548_1280.png",
-    "url": "https://bombparty-clone.fly.dev/",
-    "newtab": true
+      "name":"Polytrack",
+      "type":"racing",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/polytrack.jpg",
+      "url":"https://shookcheeto.shokodeal.ru/gf/polytrack.html"
    },
    {
-    "name": "Age of War",
-    "type": "idle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/agewar.jpeg",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/agewar.swf"
+      "name":"Bomb Word Filler",
+      "type":"skill",
+      "image":"https://cdn.pixabay.com/photo/2017/01/31/16/59/bomb-2025548_1280.png",
+      "url":"https://bombparty-clone.fly.dev/",
+      "newtab":true
    },
    {
-    "name": "Age of War 2",
-    "type": "idle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/agewar2.webp",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/agewar2.swf"
+      "name":"Age of War",
+      "type":"idle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/agewar.jpeg",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/agewar.swf"
    },
    {
-    "name": "Earthwalker",
-    "type": "Skill",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjaCnSCafh1oPQMXSuZQ0adV5q7KA5lqJ-Q&s",
-    "url": "https://earthwalker.codingkitten.hackclub.app",
-    "newtab": true
+      "name":"Age of War 2",
+      "type":"idle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/agewar2.webp",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/agewar2.swf"
    },
    {
-    "name": "Wikipedia Speedruns",
-    "type": "Skill",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Wikipedia-logo_ka.png",
-    "url": "https://wikispeedruns.com/"
+      "name":"Earthwalker",
+      "type":"Skill",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQjaCnSCafh1oPQMXSuZQ0adV5q7KA5lqJ-Q&s",
+      "url":"https://earthwalker.codingkitten.hackclub.app",
+      "newtab":true
    },
    {
-    "name": "Gobble",
-    "type": "Skill",
-    "image": "https://math181124.github.io/img/class-420.png",
-    "url": "https://math181124.github.io/g9/class-420"
-  },
-  {
-    "name": "Stick Defenders",
-    "type": "shooter",
-    "image": "https://math181124.github.io/img/class-416.png",
-    "url": "https://math181124.github.io/g2/class-416"
-  },
-  {
-    "name": "Level Devil",
-    "type": "Platformer",
-    "image": "https://math181124.github.io/img/class-356.png",
-    "url": "https://math181124.github.io/g22/class-356"
-  },
-  {
-    "name": "Super Speeder",
-    "type": "Skill",
-    "image": "https://math181124.github.io/img/class-82.png",
-    "url": "https://math181124.github.io/g7/class-82"
-  },
-  {
-    "name": "Swingo",
-    "type": "Platformer",
-    "image": "https://math181124.github.io/img/class-636.png",
-    "url": "https://math181124.github.io/g69/class-636"
-  },
-  {
-    "name": "Blumgi Castle",
-    "type": "Battle",
-    "image": "https://math181124.github.io/img/class-427.png",
-    "url": "https://math181124.github.io/g16/class-427"
-  },
- {
-    "name": "Stickman Ragdoll Fight",
-    "type": "battle",
-    "image": "https://math181124.github.io/img/class-281.png",
-    "url": "https://math181124.github.io/g177/class-281"
-  },
- {
-    "name": "Stickman Run",
-    "type": "platformer",
-    "image": "https://math181124.github.io/img/class-74.png",
-    "url": "https://math181124.github.io/g7/class-74"
-  },
- {
-    "name": "Mimelet",
-    "type": "platformer",
-    "image": "https://math181124.github.io/img/class-140.png",
-    "url": "https://math181124.github.io/g8/class-140"
-  },
- {
-    "name": "Stickman Parkour 3",
-    "type": "platformer",
-    "image": "https://math181124.github.io/img/class-75.png",
-    "url": "https://math181124.github.io/g7/class-75"
-  },
- {
-    "name": "Blumgi Dragon",
-    "type": "Skill",
-    "image": "https://math181124.github.io/img/class-363.png",
-    "url": "https://math181124.github.io/g22/class-363"
-  },
-  {
-    "name": "1v1 Lol",
-    "type": "Skill",
-    "image": "https://math181124.github.io/img/class-439.png",
-    "url": "https://math181124.github.io/g77-3/class-439"
-  },
-  {
-    "name": "Tiger Simulator 3D",
-    "type": "platformer",
-    "image": "https://math181124.github.io/img/class-587.png",
-    "url": "https://math181124.github.io/g69/class-587"
-  },
-  {
-    "name": "Bob The Robber 2",
-    "type": "platformer",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw59iLJAtOduB0YBrax8nKxyX36En3QFls6Q&s",
-    "url": "https://bobtherobberunblocked.github.io/2/"
-  },
-  {
-    "name": "Champions League",
-    "type": "skill",
-    "image": "https://math181124.github.io/img/class-588.png",
-    "url": "https://math181124.github.io/g2/class-588"
-  },
-  {
-    "name": "DreadHead Parkour",
-    "type": "platformer",
-    "image": "https://math181124.github.io/img/class-412.png",
-    "url": "https://math181124.github.io/g97/class-412"
-  },
-  {
-    "name": "Golfinity",
-    "type": "skill",
-    "image": "https://math181124.github.io/img/class-777.png",
-    "url": "https://math181124.github.io/g9/class-777"
-  },
-  {
-    "name": "Rocket League",
-    "type": "racing",
-    "image": "https://math181124.github.io/img/class-527.png",
-    "url": "https://math181124.github.io/g2/class-527"
-  },
-  {
-    "name": "Fruit Ninja",
-    "type": "Skill",
-    "image": "https://math181124.github.io/img/class-22.png",
-    "url": "https://math181124.github.io/g50/class-22"
-  },
-  {
-    "name": "G-Switch 4",
-    "type": "Skill",
-    "image": "https://math181124.github.io/img/class-366.png",
-    "url": "https://math181124.github.io/g22/class-366"
-  },
-  {
-    "name": "YoHoHo.io",
-    "type": "Skill",
-    "image": "https://math181124.github.io/img/class-828.png",
-    "url": "https://math181124.github.io/g77/class-828"
-  },
-  {
-    "name": "Master Chess",
-    "type": "Skill",
-    "image": "https://math181124.github.io/img/class-506.png",
-    "url": "https://math181124.github.io/g97/class-506"
-  },
-  {
-    "name": "Bob The Robber 4",
-    "type": "platformer",
-    "image": "https://math181124.github.io/img/class-568.png",
-    "url": "https://math181124.github.io/g97/class-568"
-  },
-  {
-    "name": "Decent",
-    "type": "platformer",
-    "image": "https://math181124.github.io/img/class-377.png",
-    "url": "https://math181124.github.io/g22/class-377"
-  },
-  {
-    "name": "Dadish",
-    "type": "platformer",
-    "image": "https://math181124.github.io/img/class-86.png",
-    "url": "https://math181124.github.io/g7/class-86"
-  },
-  {
-    "name": "Gunspin",
-    "type": "shooter",
-    "image": "https://smashkartsonline.github.io/img/class-533.png",
-    "url": "https://smashstore2212.github.io/g5/class-533"
-  },
-  {
-    "name": "Stickman MineSweeper 2",
-    "type": "platformer",
-    "image": "https://math181124.github.io/img/class-426.png",
-    "url": "https://math181124.github.io/g2/class-426"
-  },
-  {
-    "name": "Europe Cup ",
-    "type": "Skill",
-    "image": "https://math181124.github.io/img/class-429.png",
-    "url": "https://math181124.github.io/g2/class-429"
-  },
-  {
-    "name": "Temple of Boom",
-    "type": "platformer",
-    "image": "https://math181124.github.io/img/class-411.png",
-    "url": "https://soccer-random.github.io/a3/temple-of-boom/"
-  },
-  {
-    "name": "Parkour Race",
-    "type": "platformer",
-    "image": "https://tataedu23.github.io/img/class-830.png",
-    "url": "https://tataedu23.github.io/g77/class-830"
-  },
-  {
-    "name": "Stickman Hook",
-    "type": "platformer",
-    "image": "https://unblocked-games-onlines.github.io/imgs/stickman-hook.png",
-    "url": "https://unblocked-games-onlines.github.io/u/stickman-hook/"
-  },
-
-  {
-    "name": "Shortcut race",
-    "type": "platformer",
-    "image": "https://unblocked-games-onlines.github.io/imgs/shortcut-race.png",
-    "url": "https://unblocked-games-onlines.github.io/u9/shortcut-race"
-  },
-  {
-    "name": "Subways Server",
-    "type": "platformer",
-    "image": "https://unblocked-games-onlines.github.io/imgs/subway-surfers.png",
-    "url": "https://unblocked-games-onlines.github.io/u8/subway-surfers-san-francisco"
-  },
-  {
-    "name": "Crossy Road Space",
-    "type": "platformer",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/crossyroad.jpeg",
-    "url": "https://lnahtml.github.io/a/crossy-road/"
-  },
-  {
-    "name": "Boxing Random",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Boxrandom.jpeg",
-    "url": "https://games-site.github.io/projects/boxing-random/frame.html"
-  },
-  {
-    "name": "Basket Random",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/basketrandom.png",
-    "url": "https://games-site.github.io/projects/basket-random/frame.html"
-  },
-  {
-    "name": "Volley Random",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/volleyrand.jpeg",
-    "url": "https://games-site.github.io/projects/volley-random/frame.html"
-  },
-  {
-    "name": "Soccer Random",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/soccrand.jpeg",
-    "url": "https://soccer-random.github.io/a8/soccer-random/"
-  },
-  {
-    "name": "Mini Battles",
-    "type": "skill",
-    "image": "https://math181124.github.io/img/class-649.png",
-    "url": "https://math181124.github.io/g72/class-649"
-  }, 
-  {
-    "name": "12 Mini Battles",
-    "type": "skill",
-    "image": "https://smashkartsonlinegames.github.io/imgs/12-minibattles.png",
-    "url": "https://smashkartsonlinegames.github.io/v2/12-minibattles"
-  },
-  {
-    "name": "Blumgi Ball",
-    "type": "skill",
-    "image": "https://smashkartsonlinegames.github.io/imgs/blumgi-ball.png",
-    "url": "https://smashkartsonlinegames.github.io/v2/blumgi-ball"
-  },
-  {
-    "name": "Blumgi Slime",
-    "type": "Skill",
-    "image": "https://math181124.github.io/img/class-421.png",
-    "url": "https://math181124.github.io/g16/class-421"
-  }, 
-  {
-    "name": "Blumgi Bloom",
-    "type": "Skill",
-    "image": "https://math181124.github.io/img/class-183.png",
-    "url": "https://math181124.github.io/g4/class-183"
-  }, 
-  {
-    "name": "Blumgi Rocket",
-    "type": "racing",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/blumgirocket.jpeg",
-    "url": "https://majesticwafer.github.io/BlumgiRocket/"
-  },
-  {
-    "name": "Recoil",
-    "type": "puzzle",
-    "image": "https://smashkartsonlinegames.github.io/imgs/recoil.png",
-    "url": "https://smashkartsonlinegames.github.io/v6/recoil"
-  },
-  {
-    "name": "Among Us",
-    "type": "puzzle",
-    "image": "https://smashkartsonlinegames.github.io/imgs/among-us.png",
-    "url": "https://smashkartsonlinegames.github.io/v/among-us"
-  },
-  {
-    "name": "Fire Boy and Water Girl 1",
-    "type": "puzzle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/firewater.jpeg",
-    "url": "https://2048taylorswift.github.io/factoryballsforever/"
-  },
-  {
-    "name": "Fire Boy and Water Girl 2",
-    "type": "puzzle",
-    "image": "https://math181124.github.io/img/class-345.png",
-    "url": "https://math181124.github.io/g177/class-345"
-  },
+      "name":"Wikipedia Speedruns",
+      "type":"Skill",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/0/06/Wikipedia-logo_ka.png",
+      "url":"https://wikispeedruns.com/"
+   },
    {
-    "name": "Fire Boy and Water Girl 3",
-    "type": "puzzle",
-    "image": "https://math181124.github.io/img/class-344.png",
-    "url": "https://math181124.github.io/g177/class-344"
-  },
-  {
-    "name": "Fire Boy and Water Girl 4",
-    "type": "puzzle",
-    "image": "https://math181124.github.io/img/class-343.png",
-    "url": "https://math181124.github.io/g177/class-343"
-  },
-  {
-    "name": "Fire Boy and Water Girl 5",
-    "type": "puzzle",
-    "image": "https://math181124.github.io/img/class-342.png",
-    "url": "https://math181124.github.io/g177/class-342"
-  },
-  {
-    "name": "Fire Boy and Water Girl 6",
-    "type": "puzzle",
-    "image": "https://math181124.github.io/img/class-341.png",
-    "url": "https://math181124.github.io/g177/class-341"
-  },   
-  {
-    "name": "Geometry Dash",
-    "type": "skill",
-    "image": "https://smashkartsonlinegames.github.io/imgs/geometry-dash.png",
-    "url": "https://smashkartsonlinegames.github.io/v8/geometry-dash/"
-  },
-  {
-    "name": "Slope 2",
-    "type": "skill",
-    "image": "https://smashkartsonlinegames.github.io/imgs/slope-2.png",
-    "url": "https://smashkartsonlinegames.github.io/v6/slope-2/"
-  },
-  {
-    "name": "Stickman GTA City",
-    "type": "shooter",
-    "image": "https://freezenova.gitlab.io/assets/upload/freezenova/jpg/stickman-gta-city.jpg",
-    "url": "https://freezenova.gitlab.io/stickman-gta-city/"
-  },
-  {
-    "name": "WhitePenRoad",
-    "type": "platformer",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/whitepen.jpeg",
-    "url": "https://haleyschool.github.io/games/whitepenroad/index.html"
-  },
-  {
-    "name": "Choppy Orc",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/orc.jpeg",
-    "url": "https://ucbg.github.io/choppy-orc/"
-  },
-  {
-    "name": "Pepernoten Pong",
-    "type": "skill",
-    "image": "https://api.sinterklaasjournaal.nl/thumbs/i/0/mod_media_image/72.w640.r640-360.75ed908.png",
-    "url": "https://cdn-sinterklaasjournaal.ntr.nl/assets/games/2023/pietengames-2016/pong.html"
-  },
-  {
-    "name": "PietenSprong",
-    "type": "skill",
-    "image": "https://api.sinterklaasjournaal.nl/thumbs/i/0/mod_media_image/294.w640.r640-360.683956a.png",
-    "url": "https://cdn-sinterklaasjournaal.ntr.nl/assets/games/2023/pietengames-2018/pietenjump.html"
-  },
-  {
-    "name": "Pepernotensjoelen",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Sjoelen.png",
-    "url": "https://cdn-sinterklaasjournaal.ntr.nl/assets/games/2024/pietengames-2019/sjoelen.html"
-  },
-  {
-    "name": "Rhomb",
-    "type": "puzzle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/rhomb.png",
-    "url": "https://class1811.github.io/g4/class-187"
-  },
-  {
-    "name": "Cubinko",
-    "type": "puzzle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/cubinko.png",
-    "url": "https://class1811.github.io/g6/class-161"
-  },
-  {
-    "name": "Trap the cat",
-    "type": "puzzle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/trap.jpeg",
-    "url": "https://class1811.github.io/g26/class-494"
-  },
-  {
-    "name": "Zombie Outbreak",
-    "type": "shooter",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/outbreak.png",
-    "url": "https://class1811.github.io/g74/class-237"
-  },
-  {
-    "name": "OVO Dimensions",
-    "type": "platformer",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/class-14.png",
-    "url": "https://class1811.github.io/g50/class-14"
-  },
-  {
-    "name": "Dyna Boy",
-    "type": "platformer",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/dynaboy.png",
-    "url": "https://ghgstore311.github.io/g74/class-262"
-  },
-  {
-    "name": "GROWMI",
-    "type": "puzzle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/growmi.png",
-    "url": "https://ghgstore311.github.io/g4/class-182/"
-  },
-  {
-    "name": "Shootz",
-    "type": "shooter",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/shootz.png",
-    "url": "https://ghgstore311.github.io/g22/class-394"
-  },
-  {
-    "name": "Stacktris",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/stacktris.png",
-    "url": "https://ghgstore311.github.io/g2/class-417/"
-  },
-  {
-    "name": "Eaglercraft",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/eaglercraft.jpeg",
-    "url": "https://02tz.github.io/Resent/javascript/index.html"
-  },
-  {
-    "name": "Tag 2",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/tag2.png",
-    "url": "https://ghgstore311.github.io/g22/class-364"
-  },
-  {
-    "name": "Gladihoppers",
-    "type": "battle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/gladihopper.png",
-    "url": "https://hypackelgames.firebaseapp.com/files/gladihoppers/game.html"
-  },
-  {
-    "name": "Idle Ants",
-    "type": "puzzle",
-    "image": "https://math181124.github.io/img/class-631.png",
-    "url": "https://77pen.github.io/p5/idle-ants"
-  }, 
-  {
-    "name": "Yarn",
-    "type": "platformer",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/yarn.jpeg",
-    "url": "https://codingkitten-yt.github.io/Pico-8Embedder/?url=https://raw.githubusercontent.com/CodingKitten-YT/Pico-8Embedder/refs/heads/main/carts/yarn-0.p8.png"
-  },
-  {
-    "name": "Picohot",
-    "type": "shooter",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/picohot.png",
-    "url": "https://codingkitten-yt.github.io/Pico-8Embedder/?url=https://raw.githubusercontent.com/CodingKitten-YT/Pico-8Embedder/refs/heads/main/carts/picohot-0.p8.png"
-  },
-  {
-    "name": "Cell Machine",
-    "type": "puzzle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/cellmachine.png",
-    "url": "https://lite.3kh0.net/projects/cell-machine/"
-  },
-  {
-    "name": "Draw The Hill",
-    "type": "skill",
-    "image": "https://lite.3kh0.net/projects/draw-the-hill/icons/icon-512.png",
-    "url": "https://lite.3kh0.net/projects/draw-the-hill/"
-  },
-  {
-    "name": "Hextris",
-    "type": "skill",
-    "image": "https://lite.3kh0.net/projects/hextris/images/hextris-logo.png",
-    "url": "https://lite.3kh0.net/projects/hextris/"
-  },
-  {
-    "name": "Impossible Quiz",
-    "type": "other",
-    "image": "https://lite.3kh0.net/projects/impossiblequiz/impossiblequiz.png",
-    "url": "https://lite.3kh0.net/projects/impossiblequiz/"
-  },
-  {
-    "name": "Kitten Cannon",
-    "type": "other",
-    "image": "https://lite.3kh0.net/projects/kittencannon/kittencannon.png",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/kittencannon.swf"
-  },
-  {
-    "name": "Wolfenstein 3D",
-    "type": "shooter",
-    "image": "https://lite.3kh0.net/projects/wolf3d/art/wolf3d.png",
-    "url": "https://lite.3kh0.net/projects/wolf3d/"
-  },
-  {
-    "name": "Wordle+",
-    "type": "puzzle",
-    "image": "https://lite.3kh0.net/projects/wordle/img/logo_512x512.png",
-    "url": "https://lite.3kh0.net/projects/wordle/"
-  },
-  {
-    "name": "Beyond The Grave II",
-    "type": "battle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/btg.png",
-    "url": "https://codingkitten-yt.github.io/quickmath/btg.html"
-  },
-  {
-    "name": "Run 2",
-    "type": "platformer",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/run2.jpeg",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/run2.swf"
-  },
-  {
-    "name": "Vex",
-    "type": "platformer",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/vex1.jpeg",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/vex.swf&aspect=1:1"
-  },
-  {
-    "name": "Vex 2",
-    "type": "platformer",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/vex2.jpeg",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/vex2.swf&aspect=8:7"
-  },
-  {
-    "name": "Vex 4",
-    "type": "platformer",
-    "image": "https://math181124.github.io/img/class-567.png",
-    "url": "https://math181124.github.io/g/class-567/"
-  }, 
-  {
-    "name": "Vex 5",
-    "type": "platformer",
-    "image": "https://math181124.github.io/img/class-493.png",
-    "url": "https://math181124.github.io/g26/class-493/"
-  },  
-  {
-    "name": "Vex 6",
-    "type": "platformer",
-    "image": "https://math181124.github.io/img/class-809.png",
-    "url": "https://math181124.github.io/g/class-809"
-  },
-  {
-    "name": "Vex 7",
-    "type": "platformer",
-    "image": "https://math181124.github.io/img/class-510.png",
-    "url": "https://math181124.github.io/g/class-510"
-  },   
-  {
-    "name": "Vex 8",
-    "type": "platformer",
-    "image": "https://math181124.github.io/img/class-245.png",
-    "url": "https://ubg98.github.io/Vex8/"
-  },    
-  {
-    "name": "Hobo 1",
-    "type": "battle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo1.jpeg",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo1.swf"
-  },
-  {
-    "name": "Hobo 2",
-    "type": "battle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo2.jpeg",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo2.swf"
-  },
-  {
-    "name": "Hobo 3",
-    "type": "battle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo3.jpeg",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo3.swf"
-  },
-  {
-    "name": "Hobo 4",
-    "type": "battle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo4.jpeg",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo4.swf"
-  },
-  {
-    "name": "Hobo 5",
-    "type": "battle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo5.jpeg",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo5.swf"
-  },
-  {
-    "name": "Hobo 6",
-    "type": "battle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo6.jpeg",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo6.swf"
-  },
-  {
-    "name": "Hobo 7",
-    "type": "battle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo7.jpeg",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo7.swf"
-  },
-  {
-    "name": "Cut The Rope",
-    "type": "puzzle",
-    "image": "https://upload.wikimedia.org/wikipedia/en/6/66/Cut_the_Rope_%28App_icon%29.png",
-    "url": "https://lite.3kh0.net/projects/ctr/"
-  },
-  {
-    "name": "Cut The Rope Holliday",
-    "type": "puzzle",
-    "image": "https://lite.3kh0.net/projects/ctr-holiday/Holiday_Gift.webp",
-    "url": "https://lite.3kh0.net/projects/ctr-holiday/"
-  },
-  {
-    "name": "Cut The Rope Time Travel",
-    "type": "puzzle",
-    "image": "https://lite.3kh0.net/projects/ctr-tr/logo.png",
-    "url": "https://lite.3kh0.net/projects/ctr-tr/"
-  },
-  {
-    "name": "Rising Lava",
-    "type": "platformer",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/risinglava.png",
-    "url": "https://turbowarp.org/944715656/embed"
-  },
-  {
-    "name": "Virtua Racing",
-    "type": "racing",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/virtuaracing.png",
-    "url": "https://turbowarp.org/977543606/embed"
-  },
-  {
-    "name": "Prism",
-    "type": "puzzle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/prism.png",
-    "url": "https://turbowarp.org/127030178/embed?hqpen"
-  },
-  {
-    "name": "Drift Boss",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/Driftboss.png",
-    "url": "https://driftbossonline.github.io/file/index.html"
-  },
-  {
-    "name": "Flappy Bird",
-    "type": "skill",
-    "image": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png",
-    "url": "https://jxmked.github.io/Flappybird/"
-  },
-  {
-    "name": "Eggy Car",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/eggycar.jpeg",
-    "url": "https://ubg98.github.io/EggyCar/"
-  },
-  {
-    "name": "OVO",
-    "type": "platformer",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/ovo.jpeg",
-    "url": "https://ovo-modloader.github.io/versions/1.4.4b/index.html"
-  },
-  {
-    "name": "Slope",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/Slope.jpeg",
-    "url": "https://23azostore.github.io/s/slope"
-  },
-  {
-    "name": "Monster Tracks",
-    "type": "racing",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/monstertrack.jpeg",
-    "url": "https://23azostore.github.io/s5/monster-tracks"
-  },
-  {
-    "name": "Doodle Jump",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/doodle-removebg-preview.png",
-    "url": "https://23azostore.github.io/s7/doodle-jump"
-  },
-  {
-    "name": "Murder",
-    "type": "other",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/murder.png",
-    "url": "https://23azostore.github.io/s5/murder/"
-  },
-  {
-    "name": "Tomb of the mask",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tombofthemask.png",
-    "url": "https://23azostore.github.io/s8/tomb-of-the-mask/"
-  },
-  {
-    "name": "Moto X3M",
-    "type": "racing",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/motox3m.jpeg",
-    "url": "https://lite.3kh0.net/projects/motox3m/"
-  },
-  {
-    "name": "Futbol11",
-    "type": "Skill",
-    "image": "https://math181124.github.io/img/class-93.png",
-    "url": "https://futbol-11.com/",
-    "newtab": true
-  },
-  {
-    "name": "Moto X3M Pool",
-    "type": "racing",
-    "image": "https://lite.3kh0.net/projects/motox3m-pool/splash.jpg",
-    "url": "https://lite.3kh0.net/projects/motox3m-pool/"
-  },
-  {
-    "name": "Moto X3M Spooky",
-    "type": "racing",
-    "image": "https://lite.3kh0.net/projects/motox3m-spooky/splash.jpeg",
-    "url": "https://lite.3kh0.net/projects/motox3m-spooky/"
-  },
-  {
-    "name": "Moto X3M Winter",
-    "type": "racing",
-    "image": "https://lite.3kh0.net/projects/motox3m-winter/download.jpeg",
-    "url": "https://lite.3kh0.net/projects/motox3m-winter/"
-  },
-  {
-    "name": "Tunnel Rush",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tunnelrush.jpeg",
-    "url": "https://3kho.github.io/projects/tunnel-rush/index.html"
-  },
-  {
-    "name": "Paper.io 2",
-    "type": "other",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/paperio.jpeg",
-    "url": "https://3kho.github.io/projects/paperio2/index.html"
-  },
-  {
-    "name": "Cats",
-    "type": "battle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/cats.jpeg",
-    "url": "https://23azostore.github.io/s4/cats/"
-  },
-  {
-    "name": "Tiny Fishing",
-    "type": "idle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tinyfishing.jpeg",
-    "url": "https://23azostore.github.io/s/tiny-fishing/"
-  },
-  {
-    "name": "Drive Mad",
-    "type": "racing",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/drivemad.jpeg",
-    "url": "https://ubg77.github.io/game131022/drive-mad/"
-  },
-  {
-    "name": "Bitlife",
-    "type": "idle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/bitlife.png",
-    "url": "https://1727859.github.io/cyanidegames/bitlife/index.html"
-  },
-  {
-    "name": "Earn To Die",
-    "type": "racing",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/etd.jpeg",
-    "url": "https://unblockedgamesworlds.github.io/earn-to-die/"
-  },
-  {
-    "name": "Temple Run",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/templerun.png",
-    "url": "https://lite.3kh0.net/projects/temple-run-2/"
-  },
-  {
-    "name": "HexGL",
-    "type": "racing",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/HexGL.png",
-    "url": "https://lite.3kh0.net/projects/HexGL/"
-  },
-  {
-    "name": "Cube Field",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/cubefield.jpeg",
-    "url": "https://binbashbanana.github.io/gfiles/gfiles/flash/?swf=cubefield.swf"
-  },
-  {
-    "name": "Tetris",
-    "type": "puzzle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tetris.jpeg",
-    "url": "https://binbashbanana.github.io/gfiles/gfiles/flash/?swf=tetris.swf"
-  },
-  {
-    "name": "2048",
-    "type": "skill",
-    "image": "https://s3.us-east-2.amazonaws.com/wickeyappstore/assets/Random/41NgOgTVblL.png",
-    "url": "https://binbashbanana.github.io/gfiles/gfiles/html5/2048/"
-  },
-  {
-    "name": "Jack Smith",
-    "type": "idle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/jacksmith.jpeg",
-    "url": "https://gamez-ebon.vercel.app/jacksmith/jacksmith.html"
-  },
-  {
-    "name": "Time Shooter 2",
-    "type": "shooter",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/timeshooter-removebg-preview.png",
-    "url": "https://gamez-ebon.vercel.app/time-shooter-2/ts2.html"
-  },
-  {
-    "name": "Happy Wheels",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/happywheel.jpeg",
-    "url": "https://gamez-ebon.vercel.app/happywheels/"
-  },
-  {
-    "name": "CircloO",
-    "type": "puzzle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/circloo.png",
-    "url": "https://ubg98.github.io/CircloO2/"
-  },
-  {
-    "name": "Champion Island",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/championisland.jpg",
-    "url": "https://www.google.com/logos/2020/kitsune/rc7/kitsune20.html",
-    "newtab": true
-  },
-  {
-    "name": "Garden Gnomes",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/gardengnome.png",
-    "url": "https://www.google.com/logos/2018/gnomes/gnomes18.html",
-    "newtab": true
-  },
-  {
-    "name": "Hunter Assasin 2",
-    "type": "puzzle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/assasin.jpeg",
-    "url": "https://classroomjq.github.io/class276223/hunter-assassin-2/?kiz10"
-  },
-  {
-    "name": "Say what you see!",
-    "type": "other",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/SayWhatYOuSee.png",
-    "url": "https://artsandculture.google.com/incognito/experiment/jwG3m7wQShZngw",
-    "newtab": true
-  },
-  {
-    "name": "Oblong",
-    "type": "other",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/oblong.png",
-    "url": "https://www.hoodamath.com/mobile/games/oblong/game.html"
-  },
-  {
-    "name": "Sandboxels",
-    "type": "other",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/sandboxels.png",
-    "url": "https://sandboxels.r74n.com",
-    "newtab": true
-  },
-  {
-    "name": "Fluid Simulation",
-    "type": "other",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/fluids.png",
-    "url": "https://paveldogreat.github.io/WebGL-Fluid-Simulation/"
-  },
-  {
-    "name": "Snake",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/alu-games/main/google-snake/snake.webp",
-    "url": "https://codingkitten-yt.github.io/alu-games/google-snake/"
-  },
-  {
-    "name": "Super Mario Bros",
-    "type": "platformer",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/MarioBros.png",
-    "url": "https://codingkitten-yt.github.io/retrogames/Mario.html"
-  },
-  {
-    "name": "Mario Kart 64",
-    "type": "racing",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/mariokart64.jpeg",
-    "url": "https://codingkitten-yt.github.io/retrogames/MarioKart64.html"
-  },
-  {
-    "name": "Ice Cube Smash",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/icecubesmash.png",
-    "url": "https://codingkitten-yt.github.io/quickmath/cube.html"
-  },
-  {
-    "name": "Incredibox",
-    "type": "other",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/incredibox.png",
-    "url": "https://joalor64gh.github.io/IncrediboxOpenSource/"
-  },
-  {
-    "name": "Death Run",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/alu-games/main/death-run-3d/logo.png",
-    "url": "https://codingkitten-yt.github.io/alu-games/death-run-3d/"
-  },
-  {
-    "name": "Chrome Dino",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/alu-games/main/chrome-dino/logo.png",
-    "url": "https://codingkitten-yt.github.io/alu-games/chrome-dino/"
-  },
-  {
-    "name": "Monkey Mart",
-    "type": "idle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/monkeymart.jpeg",
-    "url": "https://gswitch3.github.io/g8/monkey-mart",
-    "newtab": true
-  },
-  {
-    "name": "Gun Mayhem",
-    "type": "battle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/gunmayham.jpeg",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/gunmayhem.swf"
-  },
-  {
-    "name": "Bloons",
-    "type": "idle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/bloons.jpeg",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/selenite-cc/flasharchive/main/Bloons.swf"
-  },
-  {
-    "name": "Bad Piggies",
-    "type": "puzzle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/badpiggies.jpeg",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/selenite-cc/selenite-old/main/badpiggies/badpiggies.swf"
-  },
-  {
-    "name": "Minesweeper",
-    "type": "puzzle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/minesweeper.png",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/selenite-cc/flasharchive/main/Minesweeper.swf"
-  },
-  {
-    "name": "Swords and Souls",
-    "type": "idle",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/swordsandsouls.png",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/swordssouls.swf"
-  },
-  {
-    "name": "Rogue Soul",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/rogue-soul-3224987978.jpg",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/roguesoul.swf"
-  },
-  {
-    "name": "Rogue Soul 2",
-    "type": "skill",
-    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/rogue-soul-2-3755977449.png",
-    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/roguesoul2.swf"
-  }
+      "name":"Gobble",
+      "type":"Skill",
+      "image":"https://math181124.github.io/img/class-420.png",
+      "url":"https://math181124.github.io/g9/class-420"
+   },
+   {
+      "name":"Stick Defenders",
+      "type":"shooter",
+      "image":"https://math181124.github.io/img/class-416.png",
+      "url":"https://math181124.github.io/g2/class-416"
+   },
+   {
+      "name":"Level Devil",
+      "type":"Platformer",
+      "image":"https://math181124.github.io/img/class-356.png",
+      "url":"https://math181124.github.io/g22/class-356"
+   },
+   {
+      "name":"Super Speeder",
+      "type":"Skill",
+      "image":"https://math181124.github.io/img/class-82.png",
+      "url":"https://math181124.github.io/g7/class-82"
+   },
+   {
+      "name":"Swingo",
+      "type":"Platformer",
+      "image":"https://math181124.github.io/img/class-636.png",
+      "url":"https://math181124.github.io/g69/class-636"
+   },
+   {
+      "name":"Blumgi Castle",
+      "type":"Battle",
+      "image":"https://math181124.github.io/img/class-427.png",
+      "url":"https://math181124.github.io/g16/class-427"
+   },
+   {
+      "name":"Stickman Ragdoll Fight",
+      "type":"battle",
+      "image":"https://math181124.github.io/img/class-281.png",
+      "url":"https://math181124.github.io/g177/class-281"
+   },
+   {
+      "name":"Stickman Run",
+      "type":"platformer",
+      "image":"https://math181124.github.io/img/class-74.png",
+      "url":"https://math181124.github.io/g7/class-74"
+   },
+   {
+      "name":"Mimelet",
+      "type":"platformer",
+      "image":"https://math181124.github.io/img/class-140.png",
+      "url":"https://math181124.github.io/g8/class-140"
+   },
+   {
+      "name":"Stickman Parkour 3",
+      "type":"platformer",
+      "image":"https://math181124.github.io/img/class-75.png",
+      "url":"https://math181124.github.io/g7/class-75"
+   },
+   {
+      "name":"Blumgi Dragon",
+      "type":"Skill",
+      "image":"https://math181124.github.io/img/class-363.png",
+      "url":"https://math181124.github.io/g22/class-363"
+   },
+   {
+      "name":"1v1 Lol",
+      "type":"Skill",
+      "image":"https://math181124.github.io/img/class-439.png",
+      "url":"https://math181124.github.io/g77-3/class-439"
+   },
+   {
+      "name":"Tiger Simulator 3D",
+      "type":"platformer",
+      "image":"https://math181124.github.io/img/class-587.png",
+      "url":"https://math181124.github.io/g69/class-587"
+   },
+   {
+      "name":"Bob The Robber 2",
+      "type":"platformer",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw59iLJAtOduB0YBrax8nKxyX36En3QFls6Q&s",
+      "url":"https://bobtherobberunblocked.github.io/2/"
+   },
+   {
+      "name":"Champions League",
+      "type":"skill",
+      "image":"https://math181124.github.io/img/class-588.png",
+      "url":"https://math181124.github.io/g2/class-588"
+   },
+   {
+      "name":"DreadHead Parkour",
+      "type":"platformer",
+      "image":"https://math181124.github.io/img/class-412.png",
+      "url":"https://math181124.github.io/g97/class-412"
+   },
+   {
+      "name":"Golfinity",
+      "type":"skill",
+      "image":"https://math181124.github.io/img/class-777.png",
+      "url":"https://math181124.github.io/g9/class-777"
+   },
+   {
+      "name":"Rocket League",
+      "type":"racing",
+      "image":"https://math181124.github.io/img/class-527.png",
+      "url":"https://math181124.github.io/g2/class-527"
+   },
+   {
+      "name":"Fruit Ninja",
+      "type":"Skill",
+      "image":"https://math181124.github.io/img/class-22.png",
+      "url":"https://math181124.github.io/g50/class-22"
+   },
+   {
+      "name":"G-Switch 4",
+      "type":"Skill",
+      "image":"https://math181124.github.io/img/class-366.png",
+      "url":"https://math181124.github.io/g22/class-366"
+   },
+   {
+      "name":"YoHoHo.io",
+      "type":"Skill",
+      "image":"https://math181124.github.io/img/class-828.png",
+      "url":"https://math181124.github.io/g77/class-828"
+   },
+   {
+      "name":"Master Chess",
+      "type":"Skill",
+      "image":"https://math181124.github.io/img/class-506.png",
+      "url":"https://math181124.github.io/g97/class-506"
+   },
+   {
+      "name":"Bob The Robber 4",
+      "type":"platformer",
+      "image":"https://math181124.github.io/img/class-568.png",
+      "url":"https://math181124.github.io/g97/class-568"
+   },
+   {
+      "name":"Decent",
+      "type":"platformer",
+      "image":"https://math181124.github.io/img/class-377.png",
+      "url":"https://math181124.github.io/g22/class-377"
+   },
+   {
+      "name":"Dadish",
+      "type":"platformer",
+      "image":"https://math181124.github.io/img/class-86.png",
+      "url":"https://math181124.github.io/g7/class-86"
+   },
+   {
+      "name":"Gunspin",
+      "type":"shooter",
+      "image":"https://smashkartsonline.github.io/img/class-533.png",
+      "url":"https://smashstore2212.github.io/g5/class-533"
+   },
+   {
+      "name":"Stickman MineSweeper 2",
+      "type":"platformer",
+      "image":"https://math181124.github.io/img/class-426.png",
+      "url":"https://math181124.github.io/g2/class-426"
+   },
+   {
+      "name":"Europe Cup ",
+      "type":"Skill",
+      "image":"https://math181124.github.io/img/class-429.png",
+      "url":"https://math181124.github.io/g2/class-429"
+   },
+   {
+      "name":"Temple of Boom",
+      "type":"platformer",
+      "image":"https://math181124.github.io/img/class-411.png",
+      "url":"https://soccer-random.github.io/a3/temple-of-boom/"
+   },
+   {
+      "name":"Parkour Race",
+      "type":"platformer",
+      "image":"https://tataedu23.github.io/img/class-830.png",
+      "url":"https://tataedu23.github.io/g77/class-830"
+   },
+   {
+      "name":"Stickman Hook",
+      "type":"platformer",
+      "image":"https://unblocked-games-onlines.github.io/imgs/stickman-hook.png",
+      "url":"https://unblocked-games-onlines.github.io/u/stickman-hook/"
+   },
+   {
+      "name":"Shortcut race",
+      "type":"platformer",
+      "image":"https://unblocked-games-onlines.github.io/imgs/shortcut-race.png",
+      "url":"https://unblocked-games-onlines.github.io/u9/shortcut-race"
+   },
+   {
+      "name":"Subways Server",
+      "type":"platformer",
+      "image":"https://unblocked-games-onlines.github.io/imgs/subway-surfers.png",
+      "url":"https://unblocked-games-onlines.github.io/u8/subway-surfers-san-francisco"
+   },
+   {
+      "name":"Crossy Road Space",
+      "type":"platformer",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/crossyroad.jpeg",
+      "url":"https://lnahtml.github.io/a/crossy-road/"
+   },
+   {
+      "name":"Boxing Random",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Boxrandom.jpeg",
+      "url":"https://games-site.github.io/projects/boxing-random/frame.html"
+   },
+   {
+      "name":"Basket Random",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/basketrandom.png",
+      "url":"https://games-site.github.io/projects/basket-random/frame.html"
+   },
+   {
+      "name":"Volley Random",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/volleyrand.jpeg",
+      "url":"https://games-site.github.io/projects/volley-random/frame.html"
+   },
+   {
+      "name":"Soccer Random",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/soccrand.jpeg",
+      "url":"https://soccer-random.github.io/a8/soccer-random/"
+   },
+   {
+      "name":"Mini Battles",
+      "type":"skill",
+      "image":"https://math181124.github.io/img/class-649.png",
+      "url":"https://math181124.github.io/g72/class-649"
+   },
+   {
+      "name":"12 Mini Battles",
+      "type":"skill",
+      "image":"https://smashkartsonlinegames.github.io/imgs/12-minibattles.png",
+      "url":"https://smashkartsonlinegames.github.io/v2/12-minibattles"
+   },
+   {
+      "name":"Blumgi Ball",
+      "type":"skill",
+      "image":"https://smashkartsonlinegames.github.io/imgs/blumgi-ball.png",
+      "url":"https://smashkartsonlinegames.github.io/v2/blumgi-ball"
+   },
+   {
+      "name":"Blumgi Slime",
+      "type":"Skill",
+      "image":"https://math181124.github.io/img/class-421.png",
+      "url":"https://math181124.github.io/g16/class-421"
+   },
+   {
+      "name":"Blumgi Bloom",
+      "type":"Skill",
+      "image":"https://math181124.github.io/img/class-183.png",
+      "url":"https://math181124.github.io/g4/class-183"
+   },
+   {
+      "name":"Blumgi Rocket",
+      "type":"racing",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/blumgirocket.jpeg",
+      "url":"https://majesticwafer.github.io/BlumgiRocket/"
+   },
+   {
+      "name":"Recoil",
+      "type":"puzzle",
+      "image":"https://smashkartsonlinegames.github.io/imgs/recoil.png",
+      "url":"https://smashkartsonlinegames.github.io/v6/recoil"
+   },
+   {
+      "name":"Among Us",
+      "type":"puzzle",
+      "image":"https://smashkartsonlinegames.github.io/imgs/among-us.png",
+      "url":"https://smashkartsonlinegames.github.io/v/among-us"
+   },
+   {
+      "name":"Fire Boy and Water Girl 1",
+      "type":"puzzle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/firewater.jpeg",
+      "url":"https://2048taylorswift.github.io/factoryballsforever/"
+   },
+   {
+      "name":"Fire Boy and Water Girl 2",
+      "type":"puzzle",
+      "image":"https://math181124.github.io/img/class-345.png",
+      "url":"https://math181124.github.io/g177/class-345"
+   },
+   {
+      "name":"Fire Boy and Water Girl 3",
+      "type":"puzzle",
+      "image":"https://math181124.github.io/img/class-344.png",
+      "url":"https://math181124.github.io/g177/class-344"
+   },
+   {
+      "name":"Fire Boy and Water Girl 4",
+      "type":"puzzle",
+      "image":"https://math181124.github.io/img/class-343.png",
+      "url":"https://math181124.github.io/g177/class-343"
+   },
+   {
+      "name":"Fire Boy and Water Girl 5",
+      "type":"puzzle",
+      "image":"https://math181124.github.io/img/class-342.png",
+      "url":"https://math181124.github.io/g177/class-342"
+   },
+   {
+      "name":"Fire Boy and Water Girl 6",
+      "type":"puzzle",
+      "image":"https://math181124.github.io/img/class-341.png",
+      "url":"https://math181124.github.io/g177/class-341"
+   },
+   {
+      "name":"Geometry Dash",
+      "type":"skill",
+      "image":"https://smashkartsonlinegames.github.io/imgs/geometry-dash.png",
+      "url":"https://smashkartsonlinegames.github.io/v8/geometry-dash/"
+   },
+   {
+      "name":"Slope 2",
+      "type":"skill",
+      "image":"https://smashkartsonlinegames.github.io/imgs/slope-2.png",
+      "url":"https://smashkartsonlinegames.github.io/v6/slope-2/"
+   },
+   {
+      "name":"Stickman GTA City",
+      "type":"shooter",
+      "image":"https://freezenova.gitlab.io/assets/upload/freezenova/jpg/stickman-gta-city.jpg",
+      "url":"https://freezenova.gitlab.io/stickman-gta-city/"
+   },
+   {
+      "name":"WhitePenRoad",
+      "type":"platformer",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/whitepen.jpeg",
+      "url":"https://haleyschool.github.io/games/whitepenroad/index.html"
+   },
+   {
+      "name":"Choppy Orc",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/orc.jpeg",
+      "url":"https://ucbg.github.io/choppy-orc/"
+   },
+   {
+      "name":"Pepernoten Pong",
+      "type":"skill",
+      "image":"https://api.sinterklaasjournaal.nl/thumbs/i/0/mod_media_image/72.w640.r640-360.75ed908.png",
+      "url":"https://cdn-sinterklaasjournaal.ntr.nl/assets/games/2023/pietengames-2016/pong.html"
+   },
+   {
+      "name":"PietenSprong",
+      "type":"skill",
+      "image":"https://api.sinterklaasjournaal.nl/thumbs/i/0/mod_media_image/294.w640.r640-360.683956a.png",
+      "url":"https://cdn-sinterklaasjournaal.ntr.nl/assets/games/2023/pietengames-2018/pietenjump.html"
+   },
+   {
+      "name":"Pepernotensjoelen",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Sjoelen.png",
+      "url":"https://cdn-sinterklaasjournaal.ntr.nl/assets/games/2024/pietengames-2019/sjoelen.html"
+   },
+   {
+      "name":"Rhomb",
+      "type":"puzzle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/rhomb.png",
+      "url":"https://class1811.github.io/g4/class-187"
+   },
+   {
+      "name":"Cubinko",
+      "type":"puzzle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/cubinko.png",
+      "url":"https://class1811.github.io/g6/class-161"
+   },
+   {
+      "name":"Trap the cat",
+      "type":"puzzle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/trap.jpeg",
+      "url":"https://class1811.github.io/g26/class-494"
+   },
+   {
+      "name":"Zombie Outbreak",
+      "type":"shooter",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/outbreak.png",
+      "url":"https://class1811.github.io/g74/class-237"
+   },
+   {
+      "name":"OVO Dimensions",
+      "type":"platformer",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/class-14.png",
+      "url":"https://class1811.github.io/g50/class-14"
+   },
+   {
+      "name":"Dyna Boy",
+      "type":"platformer",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/dynaboy.png",
+      "url":"https://ghgstore311.github.io/g74/class-262"
+   },
+   {
+      "name":"GROWMI",
+      "type":"puzzle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/growmi.png",
+      "url":"https://ghgstore311.github.io/g4/class-182/"
+   },
+   {
+      "name":"Shootz",
+      "type":"shooter",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/shootz.png",
+      "url":"https://ghgstore311.github.io/g22/class-394"
+   },
+   {
+      "name":"Stacktris",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/stacktris.png",
+      "url":"https://ghgstore311.github.io/g2/class-417/"
+   },
+   {
+      "name":"Eaglercraft",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/eaglercraft.jpeg",
+      "url":"https://02tz.github.io/Resent/javascript/index.html"
+   },
+   {
+      "name":"Tag 2",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/tag2.png",
+      "url":"https://ghgstore311.github.io/g22/class-364"
+   },
+   {
+      "name":"Gladihoppers",
+      "type":"battle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/gladihopper.png",
+      "url":"https://hypackelgames.firebaseapp.com/files/gladihoppers/game.html"
+   },
+   {
+      "name":"Idle Ants",
+      "type":"puzzle",
+      "image":"https://math181124.github.io/img/class-631.png",
+      "url":"https://77pen.github.io/p5/idle-ants"
+   },
+   {
+      "name":"Yarn",
+      "type":"platformer",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/yarn.jpeg",
+      "url":"https://codingkitten-yt.github.io/Pico-8Embedder/?url=https://raw.githubusercontent.com/CodingKitten-YT/Pico-8Embedder/refs/heads/main/carts/yarn-0.p8.png"
+   },
+   {
+      "name":"Picohot",
+      "type":"shooter",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/picohot.png",
+      "url":"https://codingkitten-yt.github.io/Pico-8Embedder/?url=https://raw.githubusercontent.com/CodingKitten-YT/Pico-8Embedder/refs/heads/main/carts/picohot-0.p8.png"
+   },
+   {
+      "name":"Cell Machine",
+      "type":"puzzle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/cellmachine.png",
+      "url":"https://lite.3kh0.net/projects/cell-machine/"
+   },
+   {
+      "name":"Draw The Hill",
+      "type":"skill",
+      "image":"https://lite.3kh0.net/projects/draw-the-hill/icons/icon-512.png",
+      "url":"https://lite.3kh0.net/projects/draw-the-hill/"
+   },
+   {
+      "name":"Hextris",
+      "type":"skill",
+      "image":"https://lite.3kh0.net/projects/hextris/images/hextris-logo.png",
+      "url":"https://lite.3kh0.net/projects/hextris/"
+   },
+   {
+      "name":"Impossible Quiz",
+      "type":"other",
+      "image":"https://lite.3kh0.net/projects/impossiblequiz/impossiblequiz.png",
+      "url":"https://lite.3kh0.net/projects/impossiblequiz/"
+   },
+   {
+      "name":"Kitten Cannon",
+      "type":"other",
+      "image":"https://lite.3kh0.net/projects/kittencannon/kittencannon.png",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/kittencannon.swf"
+   },
+   {
+      "name":"Wolfenstein 3D",
+      "type":"shooter",
+      "image":"https://lite.3kh0.net/projects/wolf3d/art/wolf3d.png",
+      "url":"https://lite.3kh0.net/projects/wolf3d/"
+   },
+   {
+      "name":"Wordle+",
+      "type":"puzzle",
+      "image":"https://lite.3kh0.net/projects/wordle/img/logo_512x512.png",
+      "url":"https://lite.3kh0.net/projects/wordle/"
+   },
+   {
+      "name":"Beyond The Grave II",
+      "type":"battle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/btg.png",
+      "url":"https://codingkitten-yt.github.io/quickmath/btg.html"
+   },
+   {
+      "name":"Run 2",
+      "type":"platformer",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/run2.jpeg",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/run2.swf"
+   },
+   {
+      "name":"Vex",
+      "type":"platformer",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/vex1.jpeg",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/vex.swf&aspect=1:1"
+   },
+   {
+      "name":"Vex 2",
+      "type":"platformer",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/vex2.jpeg",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/vex2.swf&aspect=8:7"
+   },
+   {
+      "name":"Vex 4",
+      "type":"platformer",
+      "image":"https://math181124.github.io/img/class-567.png",
+      "url":"https://math181124.github.io/g/class-567/"
+   },
+   {
+      "name":"Vex 5",
+      "type":"platformer",
+      "image":"https://math181124.github.io/img/class-493.png",
+      "url":"https://math181124.github.io/g26/class-493/"
+   },
+   {
+      "name":"Vex 6",
+      "type":"platformer",
+      "image":"https://math181124.github.io/img/class-809.png",
+      "url":"https://math181124.github.io/g/class-809"
+   },
+   {
+      "name":"Vex 7",
+      "type":"platformer",
+      "image":"https://math181124.github.io/img/class-510.png",
+      "url":"https://math181124.github.io/g/class-510"
+   },
+   {
+      "name":"Vex 8",
+      "type":"platformer",
+      "image":"https://math181124.github.io/img/class-245.png",
+      "url":"https://ubg98.github.io/Vex8/"
+   },
+   {
+      "name":"Hobo 1",
+      "type":"battle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo1.jpeg",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo1.swf"
+   },
+   {
+      "name":"Hobo 2",
+      "type":"battle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo2.jpeg",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo2.swf"
+   },
+   {
+      "name":"Hobo 3",
+      "type":"battle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo3.jpeg",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo3.swf"
+   },
+   {
+      "name":"Hobo 4",
+      "type":"battle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo4.jpeg",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo4.swf"
+   },
+   {
+      "name":"Hobo 5",
+      "type":"battle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo5.jpeg",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo5.swf"
+   },
+   {
+      "name":"Hobo 6",
+      "type":"battle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo6.jpeg",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo6.swf"
+   },
+   {
+      "name":"Hobo 7",
+      "type":"battle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo7.jpeg",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/hobo7.swf"
+   },
+   {
+      "name":"Cut The Rope",
+      "type":"puzzle",
+      "image":"https://upload.wikimedia.org/wikipedia/en/6/66/Cut_the_Rope_%28App_icon%29.png",
+      "url":"https://lite.3kh0.net/projects/ctr/"
+   },
+   {
+      "name":"Cut The Rope Holliday",
+      "type":"puzzle",
+      "image":"https://lite.3kh0.net/projects/ctr-holiday/Holiday_Gift.webp",
+      "url":"https://lite.3kh0.net/projects/ctr-holiday/"
+   },
+   {
+      "name":"Cut The Rope Time Travel",
+      "type":"puzzle",
+      "image":"https://lite.3kh0.net/projects/ctr-tr/logo.png",
+      "url":"https://lite.3kh0.net/projects/ctr-tr/"
+   },
+   {
+      "name":"Rising Lava",
+      "type":"platformer",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/risinglava.png",
+      "url":"https://turbowarp.org/944715656/embed"
+   },
+   {
+      "name":"Virtua Racing",
+      "type":"racing",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/virtuaracing.png",
+      "url":"https://turbowarp.org/977543606/embed"
+   },
+   {
+      "name":"Prism",
+      "type":"puzzle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/prism.png",
+      "url":"https://turbowarp.org/127030178/embed?hqpen"
+   },
+   {
+      "name":"Drift Boss",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/Driftboss.png",
+      "url":"https://driftbossonline.github.io/file/index.html"
+   },
+   {
+      "name":"Flappy Bird",
+      "type":"skill",
+      "image":"https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png",
+      "url":"https://jxmked.github.io/Flappybird/"
+   },
+   {
+      "name":"Eggy Car",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/eggycar.jpeg",
+      "url":"https://ubg98.github.io/EggyCar/"
+   },
+   {
+      "name":"OVO",
+      "type":"platformer",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/ovo.jpeg",
+      "url":"https://ovo-modloader.github.io/versions/1.4.4b/index.html"
+   },
+   {
+      "name":"Slope",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/Slope.jpeg",
+      "url":"https://23azostore.github.io/s/slope"
+   },
+   {
+      "name":"Monster Tracks",
+      "type":"racing",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/monstertrack.jpeg",
+      "url":"https://23azostore.github.io/s5/monster-tracks"
+   },
+   {
+      "name":"Doodle Jump",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/doodle-removebg-preview.png",
+      "url":"https://23azostore.github.io/s7/doodle-jump"
+   },
+   {
+      "name":"Murder",
+      "type":"other",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/murder.png",
+      "url":"https://23azostore.github.io/s5/murder/"
+   },
+   {
+      "name":"Tomb of the mask",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tombofthemask.png",
+      "url":"https://23azostore.github.io/s8/tomb-of-the-mask/"
+   },
+   {
+      "name":"Moto X3M",
+      "type":"racing",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/motox3m.jpeg",
+      "url":"https://lite.3kh0.net/projects/motox3m/"
+   },
+   {
+      "name":"Futbol11",
+      "type":"Skill",
+      "image":"https://math181124.github.io/img/class-93.png",
+      "url":"https://futbol-11.com/",
+      "newtab":true
+   },
+   {
+      "name":"Moto X3M Pool",
+      "type":"racing",
+      "image":"https://lite.3kh0.net/projects/motox3m-pool/splash.jpg",
+      "url":"https://lite.3kh0.net/projects/motox3m-pool/"
+   },
+   {
+      "name":"Moto X3M Spooky",
+      "type":"racing",
+      "image":"https://lite.3kh0.net/projects/motox3m-spooky/splash.jpeg",
+      "url":"https://lite.3kh0.net/projects/motox3m-spooky/"
+   },
+   {
+      "name":"Moto X3M Winter",
+      "type":"racing",
+      "image":"https://lite.3kh0.net/projects/motox3m-winter/download.jpeg",
+      "url":"https://lite.3kh0.net/projects/motox3m-winter/"
+   },
+   {
+      "name":"Tunnel Rush",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tunnelrush.jpeg",
+      "url":"https://3kho.github.io/projects/tunnel-rush/index.html"
+   },
+   {
+      "name":"Paper.io 2",
+      "type":"other",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/paperio.jpeg",
+      "url":"https://3kho.github.io/projects/paperio2/index.html"
+   },
+   {
+      "name":"Cats",
+      "type":"battle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/cats.jpeg",
+      "url":"https://23azostore.github.io/s4/cats/"
+   },
+   {
+      "name":"Tiny Fishing",
+      "type":"idle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tinyfishing.jpeg",
+      "url":"https://23azostore.github.io/s/tiny-fishing/"
+   },
+   {
+      "name":"Drive Mad",
+      "type":"racing",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/drivemad.jpeg",
+      "url":"https://ubg77.github.io/game131022/drive-mad/"
+   },
+   {
+      "name":"Bitlife",
+      "type":"idle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/bitlife.png",
+      "url":"https://1727859.github.io/cyanidegames/bitlife/index.html"
+   },
+   {
+      "name":"Earn To Die",
+      "type":"racing",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/etd.jpeg",
+      "url":"https://unblockedgamesworlds.github.io/earn-to-die/"
+   },
+   {
+      "name":"Temple Run",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/templerun.png",
+      "url":"https://lite.3kh0.net/projects/temple-run-2/"
+   },
+   {
+      "name":"HexGL",
+      "type":"racing",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/HexGL.png",
+      "url":"https://lite.3kh0.net/projects/HexGL/"
+   },
+   {
+      "name":"Cube Field",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/cubefield.jpeg",
+      "url":"https://binbashbanana.github.io/gfiles/gfiles/flash/?swf=cubefield.swf"
+   },
+   {
+      "name":"Tetris",
+      "type":"puzzle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/tetris.jpeg",
+      "url":"https://binbashbanana.github.io/gfiles/gfiles/flash/?swf=tetris.swf"
+   },
+   {
+      "name":"2048",
+      "type":"skill",
+      "image":"https://s3.us-east-2.amazonaws.com/wickeyappstore/assets/Random/41NgOgTVblL.png",
+      "url":"https://binbashbanana.github.io/gfiles/gfiles/html5/2048/"
+   },
+   {
+      "name":"Jack Smith",
+      "type":"idle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/jacksmith.jpeg",
+      "url":"https://gamez-ebon.vercel.app/jacksmith/jacksmith.html"
+   },
+   {
+      "name":"Time Shooter 2",
+      "type":"shooter",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/timeshooter-removebg-preview.png",
+      "url":"https://gamez-ebon.vercel.app/time-shooter-2/ts2.html"
+   },
+   {
+      "name":"Happy Wheels",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/happywheel.jpeg",
+      "url":"https://gamez-ebon.vercel.app/happywheels/"
+   },
+   {
+      "name":"CircloO",
+      "type":"puzzle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/circloo.png",
+      "url":"https://ubg98.github.io/CircloO2/"
+   },
+   {
+      "name":"Champion Island",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/championisland.jpg",
+      "url":"https://www.google.com/logos/2020/kitsune/rc7/kitsune20.html",
+      "newtab":true
+   },
+   {
+      "name":"Garden Gnomes",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/gardengnome.png",
+      "url":"https://www.google.com/logos/2018/gnomes/gnomes18.html",
+      "newtab":true
+   },
+   {
+      "name":"Hunter Assasin 2",
+      "type":"puzzle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/assasin.jpeg",
+      "url":"https://classroomjq.github.io/class276223/hunter-assassin-2/?kiz10"
+   },
+   {
+      "name":"Say what you see!",
+      "type":"other",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/SayWhatYOuSee.png",
+      "url":"https://artsandculture.google.com/incognito/experiment/jwG3m7wQShZngw",
+      "newtab":true
+   },
+   {
+      "name":"Oblong",
+      "type":"other",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/oblong.png",
+      "url":"https://www.hoodamath.com/mobile/games/oblong/game.html"
+   },
+   {
+      "name":"Sandboxels",
+      "type":"other",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/sandboxels.png",
+      "url":"https://sandboxels.r74n.com",
+      "newtab":true
+   },
+   {
+      "name":"Fluid Simulation",
+      "type":"other",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/fluids.png",
+      "url":"https://paveldogreat.github.io/WebGL-Fluid-Simulation/"
+   },
+   {
+      "name":"Snake",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/alu-games/main/google-snake/snake.webp",
+      "url":"https://codingkitten-yt.github.io/alu-games/google-snake/"
+   },
+   {
+      "name":"Super Mario Bros",
+      "type":"platformer",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/MarioBros.png",
+      "url":"https://codingkitten-yt.github.io/retrogames/Mario.html"
+   },
+   {
+      "name":"Mario Kart 64",
+      "type":"racing",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/mariokart64.jpeg",
+      "url":"https://codingkitten-yt.github.io/retrogames/MarioKart64.html"
+   },
+   {
+      "name":"Ice Cube Smash",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/icecubesmash.png",
+      "url":"https://codingkitten-yt.github.io/quickmath/cube.html"
+   },
+   {
+      "name":"Incredibox",
+      "type":"other",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/incredibox.png",
+      "url":"https://joalor64gh.github.io/IncrediboxOpenSource/"
+   },
+   {
+      "name":"Death Run",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/alu-games/main/death-run-3d/logo.png",
+      "url":"https://codingkitten-yt.github.io/alu-games/death-run-3d/"
+   },
+   {
+      "name":"Chrome Dino",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/alu-games/main/chrome-dino/logo.png",
+      "url":"https://codingkitten-yt.github.io/alu-games/chrome-dino/"
+   },
+   {
+      "name":"Monkey Mart",
+      "type":"idle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/monkeymart.jpeg",
+      "url":"https://gswitch3.github.io/g8/monkey-mart",
+      "newtab":true
+   },
+   {
+      "name":"Gun Mayhem",
+      "type":"battle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/gunmayham.jpeg",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/gunmayhem.swf"
+   },
+   {
+      "name":"Bloons",
+      "type":"idle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/bloons.jpeg",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/selenite-cc/flasharchive/main/Bloons.swf"
+   },
+   {
+      "name":"Bad Piggies",
+      "type":"puzzle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/badpiggies.jpeg",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/selenite-cc/selenite-old/main/badpiggies/badpiggies.swf"
+   },
+   {
+      "name":"Minesweeper",
+      "type":"puzzle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/minesweeper.png",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/selenite-cc/flasharchive/main/Minesweeper.swf"
+   },
+   {
+      "name":"Swords and Souls",
+      "type":"idle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/swordsandsouls.png",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/swordssouls.swf"
+   },
+   {
+      "name":"Rogue Soul",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/rogue-soul-3224987978.jpg",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/roguesoul.swf"
+   },
+   {
+      "name":"Rogue Soul 2",
+      "type":"skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/main/images/rogue-soul-2-3755977449.png",
+      "url":"https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/roguesoul2.swf"
+   }
 ]
