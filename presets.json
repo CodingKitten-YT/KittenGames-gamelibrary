@@ -4,7 +4,12 @@
     "tabName": "Somtoday",
     "tabIcon": "https://files.catbox.moe/o45elw.ico"
   },
-    {
+  {
+    "name": "Magister",
+    "tabName": "Magister",
+    "tabIcon": "https://magister.nl/wp-content/uploads/2022/07/mag_favicon_32.jpg"
+  },
+  {
     "name": "Gmail",
     "tabName": "Inbox",
     "tabIcon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico"
