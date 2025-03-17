@@ -1,5 +1,11 @@
 [
    {
+      "name":"Shady Bears",
+      "type":"Skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/623fc333ec7c123ac6ec5e130ded5c05-ezgif.com-avif-to-png-converter.png",
+      "url":"https://shadybears.gitlab.io/file/"
+   },
+   {
       "name":"Snow Rider 3D",
       "type":"Skill",
       "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhsp_VjgVsbkQXQDeqc3O0jjRHP_b37hV7cw&s",
