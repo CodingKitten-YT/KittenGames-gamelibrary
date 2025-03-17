@@ -1,5 +1,11 @@
 [
    {
+      "name":"Rolling Sky",
+      "type":"Skill",
+      "image":"https://slope-game.github.io/rungame/rolling-sky/logo.png",
+      "url":"https://slope-game.github.io/rungame/rolling-sky/"
+   },
+   {
       "name":"Armed Forces",
       "type":"Shooter",
       "image":"https://slope-game.github.io/shootimg/armedforces.jpg",
