@@ -1,5 +1,11 @@
 [
    {
+      "name":"Snow Rider 3D",
+      "type":"Skill",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhsp_VjgVsbkQXQDeqc3O0jjRHP_b37hV7cw&s",
+      "url":"https://snowrider97.github.io/file/"
+   },
+   {
       "name":"Cookie Clicker",
       "type":"Idle",
       "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/cookieclicker.png",
