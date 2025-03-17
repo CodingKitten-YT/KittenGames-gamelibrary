@@ -1,5 +1,11 @@
 [
    {
+      "name":"SuperHero.io",
+      "type":"Skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/supaero.jpeg",
+      "url":"https://slope-game.github.io/superheroio/"
+   },
+   {
       "name":"Shady Bears",
       "type":"Skill",
       "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/623fc333ec7c123ac6ec5e130ded5c05-ezgif.com-avif-to-png-converter.png",
