@@ -1,5 +1,11 @@
 [
    {
+      "name":"Idle Miner",
+      "type":"Idle",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/idelminer.jpeg",
+      "url":"https://mountain-game-games.github.io/zidleminer.html"
+   },
+   {
       "name":"Rolling Sky",
       "type":"Skill",
       "image":"https://slope-game.github.io/rungame/rolling-sky/logo.png",
