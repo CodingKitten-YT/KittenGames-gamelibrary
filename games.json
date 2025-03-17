@@ -1,5 +1,11 @@
 [
    {
+      "name":"Armed Forces",
+      "type":"Shooter",
+      "image":"https://slope-game.github.io/shootimg/armedforces.jpg",
+      "url":"https://classroomjq.github.io/class276223/armedforces/"
+   },
+   {
       "name":"SuperHero.io",
       "type":"Skill",
       "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/supaero.jpeg",
