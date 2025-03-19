@@ -1,6 +1,6 @@
 {
   "popup": {
-    "enabled": false,
+    "enabled": true,
     "title": "Official Discord Server!",
     "message": "We created a discord server for Kittengames! A place where you can talk about the site and help us decide about what we want to add or what we need to remove!",
     "project": {
