@@ -1,4 +1,10 @@
 [
+    {
+      "name":"Rooftop Snipers",
+      "type":"Shooter",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/roofsnip.jpeg",
+      "url":"https://rooftop-snipers.github.io/file/"
+   },
    {
       "name":"Bloons TD 4",
       "type":"Skill",
