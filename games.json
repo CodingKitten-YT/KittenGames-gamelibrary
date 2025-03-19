@@ -1,4 +1,10 @@
 [
+     {
+      "name":"Achtung Die Kurve",
+      "type":"Skill",
+      "image":"https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/achtung.jpeg",
+      "url":"https://achtung.life/"
+   },
     {
       "name":"Hole.io",
       "type":"Skill",
