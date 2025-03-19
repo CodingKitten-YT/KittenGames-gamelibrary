@@ -1,6 +1,6 @@
 {
   "popup": {
-    "enabled": true,
+    "enabled": false,
     "title": "Free movies!",
     "message": "I built KittenFlix as a free way to stream movies and TV shows—no subscriptions, no hidden fees. Just hit play and start watching!",
     "project": {
@@ -13,3 +13,18 @@
     }
   }
 }
+  "popup": {
+    "enabled": true,
+    "title": "Official Discord Server!",
+    "message": "We created a discord server for Kittengames! A place where you can talk about the site and help us decide about what we want to add or what we need to remove!",
+    "project": {
+      "url": "https://discord.gg/8nTXCqqWM8",
+      "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/dcpop.png"
+    },
+    "button": {
+      "text": "Join right now",
+      "url": "https://discord.gg/8nTXCqqWM8"
+    }
+  }
+}
+
