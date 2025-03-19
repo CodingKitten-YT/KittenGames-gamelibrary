@@ -1,5 +1,11 @@
 [
   {
+    "name": "Among Us",
+    "type": "puzzle",
+    "image": "https://smashkartsonlinegames.github.io/imgs/among-us.png",
+    "url": "https://kittengames.github.io/mogus/"
+  },
+  {
     "name": "Papa's Pizzeria",
     "type": "Idle",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/daddypiz.jpeg",
@@ -397,12 +403,6 @@
     "type": "puzzle",
     "image": "https://smashkartsonlinegames.github.io/imgs/recoil.png",
     "url": "https://smashkartsonlinegames.github.io/v6/recoil"
-  },
-  {
-    "name": "Among Us",
-    "type": "puzzle",
-    "image": "https://smashkartsonlinegames.github.io/imgs/among-us.png",
-    "url": "https://smashkartsonlinegames.github.io/v/among-us"
   },
   {
     "name": "Fire Boy and Water Girl 1",
