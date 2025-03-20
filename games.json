@@ -1,5 +1,11 @@
 [
   {
+    "name": "Bad Time Simulator",
+    "type": "Idle",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/badtim.jpeg",
+    "url": "https://doodle-pile.gitlab.io/endless-sans/"
+  },
+  {
     "name": "Among Us",
     "type": "puzzle",
     "image": "https://smashkartsonlinegames.github.io/imgs/among-us.png",
