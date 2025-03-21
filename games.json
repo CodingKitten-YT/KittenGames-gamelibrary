@@ -1,5 +1,11 @@
 [
   {
+    "name": "Backrooms",
+    "type": "Idle",
+    "image": "https://github.com/CodingKitten-YT/KittenGames-gamelibrary/blob/main/images/download%20(28).jpeg",
+    "url": "https://us.surajpyakurel.com.np/gf/backrooms/"
+  },
+  {
     "name": "Poor Bunny",
     "type": "Idle",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/ripbunny.png",
