@@ -1,5 +1,11 @@
 [
   {
+    "name": "Little Alchemy 2",
+    "type": "Puzzle",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/little.jpeg",
+    "url": "https://only-games.github.io/projects/little-alchemy/index.html"
+  },
+  {
     "name": "The Final Earth 2",
     "type": "Puzzle",
     "image": "https://raw.githubusercontent.com/SuperPepino/gameicons/refs/heads/main/icons/download%20(30).jpeg",
