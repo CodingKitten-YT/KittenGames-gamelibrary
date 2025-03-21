@@ -1,5 +1,11 @@
 [
   {
+    "name": "The Final Earth 2",
+    "type": "Puzzle",
+    "image": "https://raw.githubusercontent.com/SuperPepino/gameicons/refs/heads/main/icons/download%20(30).jpeg",
+    "url": "https://us.surajpyakurel.com.np/gf/thefinalearth2.html"
+  },
+  {
     "name": "Run 3",
     "type": "Platformer",
     "image": "https://raw.githubusercontent.com/SuperPepino/gameicons/refs/heads/main/icons/download%20(29).jpeg",
