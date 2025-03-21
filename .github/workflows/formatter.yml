@@ -1,6 +1,12 @@
 name: JSON Validator and Fixer
 
-on: [push, pull_request]
+on:
+  push:
+    paths:
+      - "**.json"
+  pull_request:
+    paths:
+      - "**.json"
 
 jobs:
   validate-json:
