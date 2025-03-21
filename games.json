@@ -1,5 +1,11 @@
 [
   {
+    "name": "120 Wave",
+    "type": "Idle",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/120.png",
+    "url": "https://rooftop-snipers.github.io/g3/class-325/"
+  },
+  {
     "name": "Bad Time Simulator",
     "type": "Idle",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/badtim.jpeg",
