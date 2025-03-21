@@ -1,5 +1,11 @@
 [
   {
+    "name": "The Password Game",
+    "type": "Puzzle",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/pass.png",
+    "url": "https://kittengames.github.io/mogus/pass.html"
+  },
+  {
     "name": "Little Alchemy 2",
     "type": "Puzzle",
     "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/little.jpeg",
