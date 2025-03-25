@@ -1,7 +1,7 @@
 [
     {
     "name": "Pokemon - Emerald",
-    "type": "Idle",
+    "type": "Retro",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/pokemon-emarald.jpg",
     "url": "https://kittengames.github.io/mogus/poke.html"
   },
@@ -1005,13 +1005,13 @@
   },
   {
     "name": "Super Mario Bros",
-    "type": "platformer",
+    "type": "Retro",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/MarioBros.png",
     "url": "https://codingkitten-yt.github.io/retrogames/Mario.html"
   },
   {
     "name": "Mario Kart 64",
-    "type": "racing",
+    "type": "retro",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/mariokart64.jpeg",
     "url": "https://codingkitten-yt.github.io/retrogames/MarioKart64.html"
   },
