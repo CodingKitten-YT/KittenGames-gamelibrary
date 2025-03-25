@@ -50,7 +50,7 @@
   {
     "name": "Among Us",
     "type": "puzzle",
-    "image": "https://smashkartsonlinegames.github.io/imgs/among-us.png",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/mogus.jpg",
     "url": "https://kittengames.github.io/mogus/"
   },
   {
@@ -335,7 +335,7 @@
   {
     "name": "Gunspin",
     "type": "shooter",
-    "image": "https://smashkartsonline.github.io/img/class-533.png",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/gunspin.png",
     "url": "https://smashstore2212.github.io/g5/class-533"
   },
   {
@@ -417,18 +417,6 @@
     "url": "https://math181124.github.io/g72/class-649"
   },
   {
-    "name": "12 Mini Battles",
-    "type": "skill",
-    "image": "https://smashkartsonlinegames.github.io/imgs/12-minibattles.png",
-    "url": "https://smashkartsonlinegames.github.io/v2/12-minibattles"
-  },
-  {
-    "name": "Blumgi Ball",
-    "type": "skill",
-    "image": "https://smashkartsonlinegames.github.io/imgs/blumgi-ball.png",
-    "url": "https://smashkartsonlinegames.github.io/v2/blumgi-ball"
-  },
-  {
     "name": "Blumgi Slime",
     "type": "Skill",
     "image": "https://math181124.github.io/img/class-421.png",
@@ -445,12 +433,6 @@
     "type": "racing",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/blumgirocket.jpeg",
     "url": "https://majesticwafer.github.io/BlumgiRocket/"
-  },
-  {
-    "name": "Recoil",
-    "type": "puzzle",
-    "image": "https://smashkartsonlinegames.github.io/imgs/recoil.png",
-    "url": "https://smashkartsonlinegames.github.io/v6/recoil"
   },
   {
     "name": "Fire Boy and Water Girl 1",
@@ -487,18 +469,6 @@
     "type": "puzzle",
     "image": "https://math181124.github.io/img/class-341.png",
     "url": "https://math181124.github.io/g177/class-341"
-  },
-  {
-    "name": "Geometry Dash",
-    "type": "skill",
-    "image": "https://smashkartsonlinegames.github.io/imgs/geometry-dash.png",
-    "url": "https://smashkartsonlinegames.github.io/v8/geometry-dash/"
-  },
-  {
-    "name": "Slope 2",
-    "type": "skill",
-    "image": "https://smashkartsonlinegames.github.io/imgs/slope-2.png",
-    "url": "https://smashkartsonlinegames.github.io/v6/slope-2/"
   },
   {
     "name": "WhitePenRoad",
