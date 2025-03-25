@@ -1,4 +1,10 @@
 [
+    {
+    "name": "Pokemon - Emerald",
+    "type": "Idle",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/pokemon-emarald.jpg",
+    "url": "https://kittengames.github.io/mogus/poke.html"
+  },
   {
     "name": "The Password Game",
     "type": "Puzzle",
