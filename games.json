@@ -61,7 +61,7 @@
   },
   {
     "name": "Among Us",
-    "type": "puzzle",
+    "type": "multiplayer",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/mogus.jpg",
     "url": "https://kittengames.github.io/mogus/"
   },
