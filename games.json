@@ -102,18 +102,6 @@
     "url": "https://mountain-game-games.github.io/zidleminer.html"
   },
   {
-    "name": "Rolling Sky",
-    "type": "Skill",
-    "image": "https://slope-game.github.io/rungame/rolling-sky/logo.png",
-    "url": "https://slope-game.github.io/rungame/rolling-sky/"
-  },
-  {
-    "name": "Masked Forces",
-    "type": "Shooter",
-    "image": "https://slope-game.github.io/shootimg/armedforces.jpg",
-    "url": "https://maskedforcesunlimited.github.io/"
-  },
-  {
     "name": "SuperHero.io",
     "type": "Skill",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/supaero.jpeg",
@@ -379,12 +367,6 @@
     "type": "platformer",
     "image": "https://unblocked-games-onlines.github.io/imgs/stickman-hook.png",
     "url": "https://unblocked-games-onlines.github.io/u/stickman-hook/"
-  },
-  {
-    "name": "Shortcut race",
-    "type": "platformer",
-    "image": "https://unblocked-games-onlines.github.io/imgs/shortcut-race.png",
-    "url": "https://unblocked-games-onlines.github.io/u9/shortcut-race"
   },
   {
     "name": "Subways Server",
