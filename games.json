@@ -1,5 +1,11 @@
 [
   {
+    "name": "Riddle School",
+    "type": "Puzzle",
+    "image": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/rid.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/j4sx7b.swf"
+  },
+  {
     "name": "Big Tall Small",
     "type": "Puzzle",
     "image": "https://abinbins.github.io/thumb/big-tall-small.png",
