@@ -14,7 +14,7 @@
   {
     "name": "Pong",
     "type": "Retro",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/pong.png",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/pong.jpg",
     "url": "https://sethclydesdale.github.io/browser-pong/"
   },
   {
@@ -104,7 +104,7 @@
   {
     "name": "Bloons TD 4",
     "type": "Skill",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/bloons-td-4.png",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/bloons-td-4.jpg",
     "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/5w4bk0.swf&aspect=1:1"
   },
   {
@@ -128,7 +128,7 @@
   {
     "name": "Snow Rider 3D",
     "type": "Skill",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/snow-rider-3d.png",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/snow-rider-3d.jpg",
     "url": "https://snowrider97.github.io/file/"
   },
   {
@@ -184,7 +184,7 @@
   {
     "name": "Earthwalker",
     "type": "Skill",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/earthwalker.png",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/earthwalker.jpg",
     "url": "https://earthwalker.codingkitten.hackclub.app",
     "newtab": true
   },
@@ -275,7 +275,7 @@
   {
     "name": "Bob The Robber 2",
     "type": "platformer",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/bob-the-robber-2.png",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/bob-the-robber-2.jpg",
     "url": "https://bobtherobberunblocked.github.io/2/"
   },
   {
@@ -743,7 +743,7 @@
   {
     "name": "Cut The Rope Holliday",
     "type": "puzzle",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/cut-the-rope-holliday.png",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/cut-the-rope-holliday.webp",
     "url": "https://lite.3kh0.net/projects/ctr-holiday/"
   },
   {
@@ -840,19 +840,19 @@
   {
     "name": "Moto X3M Pool",
     "type": "racing",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/moto-x3m-pool.png",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/moto-x3m-pool.jpg",
     "url": "https://lite.3kh0.net/projects/motox3m-pool/"
   },
   {
     "name": "Moto X3M Spooky",
     "type": "racing",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/moto-x3m-spooky.png",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/moto-x3m-spooky.jpeg",
     "url": "https://lite.3kh0.net/projects/motox3m-spooky/"
   },
   {
     "name": "Moto X3M Winter",
     "type": "racing",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/moto-x3m-winter.png",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/moto-x3m-winter.jpeg",
     "url": "https://lite.3kh0.net/projects/motox3m-winter/"
   },
   {
