@@ -30,6 +30,11 @@
     "tabIcon": "https://leerling.blink.nl/statics/favicon/blink.ico"
   },
   {
+    "name": "Blinkotheek",
+    "tabName": "Blinkotheek",
+    "tabIcon": "https://blinkotheek.blink.nl/favicon.ico"
+  },
+  {
     "name": "Studygo",
     "tabName": "StudyGo",
     "tabIcon": "https://raw.githubusercontent.com/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/favicon.png"
