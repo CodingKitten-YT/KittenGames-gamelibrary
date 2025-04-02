@@ -1,5 +1,11 @@
 [
   {
+    "name": "Angry Birds",
+    "type": "Puzzle",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/angryvogels.webp",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/krop63.swf&aspect=16:9"
+  },
+  {
     "name": "Riddle School",
     "type": "Puzzle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/rid.jpeg",
