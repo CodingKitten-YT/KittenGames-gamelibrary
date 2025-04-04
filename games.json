@@ -78,10 +78,17 @@
     "url": "https://doodle-pile.gitlab.io/endless-sans/"
   },
   {
-    "name": "Among Us",
+    "name": "Among Us (Custom Names)",
+    "type": "multiplayer",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/Custom%20Names.png",
+    "url": "https://turbowarp.org/945855680?interpolate&size=660x360&hqpen",
+    "newtab": true
+  },
+    {
+    "name": "Among Us (Normal)",
     "type": "multiplayer",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/mogus.jpg",
-    "url": "https://test.kittendev.xyz/mogus/"
+    "url": "https://kittengames.github.io/mogus/"
   },
   {
     "name": "Papa's Pizzeria",
