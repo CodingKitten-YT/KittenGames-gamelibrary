@@ -5,6 +5,11 @@
     "tabIcon": "https://files.catbox.moe/o45elw.ico"
   },
   {
+    "name": "eDition",
+    "tabName": "eDition",
+    "tabIcon": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/favicon%20(4).png"
+  },
+  {
     "name": "Wikipedia",
     "tabName": "Wikipedia the free encyclopedia",
     "tabIcon": "https://en.wikipedia.org/favicon.ico"
