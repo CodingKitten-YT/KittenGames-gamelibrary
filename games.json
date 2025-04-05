@@ -1,5 +1,11 @@
 [
   {
+    "name": "Super STar Car",
+    "type": "racing",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/supcar.jpeg",
+    "url": "https://bitlifeonline.github.io/super-star-car/"
+  },
+  {
     "name": "Angry Birds",
     "type": "Puzzle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/angryvogels.webp",
