@@ -109,8 +109,8 @@
   },
   {
     "name": "Among Us",
-    "type": "puzzle",
-    "image": "https://smashkartsonlinegames.github.io/imgs/among-us.png",
+    "type": "Multiplayer",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/mogus.jpg",
     "url": "https://kittengames.github.io/mogus/"
   },
   {
