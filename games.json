@@ -5,60 +5,60 @@
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/angrybridshallo.jpeg",
     "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/sddisy.swf&aspect=16:9"
   },
-     {
-     "name": "Riddle School 5",
-     "type": "Puzzle",
-     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/riddle5.jpeg",
-     "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/rvxug0.swf"
-   },
-   {
-     "name": "Riddle School 4",
-     "type": "Puzzle",
-     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/riddle4.jpeg",
-     "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/kd6q4g.swf"
-   },
-   {
-     "name": "Riddle School 3",
-     "type": "Puzzle",
-     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/riddle3.jpeg",
-     "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/pjl34p.swf&aspect=13:9"
-   },
-   {
-     "name": "Riddle School 2",
-     "type": "Puzzle",
-     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/riddle2.jpeg",
-     "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/4g1htn.swf&aspect=31:18"
-   },
-   {
-     "name": "Angry Birds",
-     "type": "Puzzle",
-     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/angryvogels.webp",
-     "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/krop63.swf&aspect=16:9"
-   },
-   {
-     "name": "Riddle School",
-     "type": "Puzzle",
-     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/rid.jpeg",
-     "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/j4sx7b.swf"
-   },
-   {
-     "name": "Big Tall Small",
-     "type": "Puzzle",
-     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/big-tall-small.png",
-     "url": "https://abinbins.github.io/a8/big-tall-small/"
-   },
-   {
-     "name": "Pong",
-     "type": "Retro",
-     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/pong.jpg",
-     "url": "https://sethclydesdale.github.io/browser-pong/"
-   },
-   {
-     "name": "Pokemon - Emerald",
-     "type": "Retro",
-     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/pokemon-emarald.jpg",
-     "url": "https://kittengames.github.io/mogus/poke.html"
-   },
+  {
+    "name": "Riddle School 5",
+    "type": "Puzzle",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/riddle5.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/rvxug0.swf"
+  },
+  {
+    "name": "Riddle School 4",
+    "type": "Puzzle",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/riddle4.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/kd6q4g.swf"
+  },
+  {
+    "name": "Riddle School 3",
+    "type": "Puzzle",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/riddle3.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/pjl34p.swf&aspect=13:9"
+  },
+  {
+    "name": "Riddle School 2",
+    "type": "Puzzle",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/riddle2.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/4g1htn.swf&aspect=31:18"
+  },
+  {
+    "name": "Angry Birds",
+    "type": "Puzzle",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/angryvogels.webp",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/krop63.swf&aspect=16:9"
+  },
+  {
+    "name": "Riddle School",
+    "type": "Puzzle",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/rid.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/j4sx7b.swf"
+  },
+  {
+    "name": "Big Tall Small",
+    "type": "Puzzle",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/big-tall-small.png",
+    "url": "https://abinbins.github.io/a8/big-tall-small/"
+  },
+  {
+    "name": "Pong",
+    "type": "Retro",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/pong.jpg",
+    "url": "https://sethclydesdale.github.io/browser-pong/"
+  },
+  {
+    "name": "Pokemon - Emerald",
+    "type": "Retro",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/pokemon-emarald.jpg",
+    "url": "https://kittengames.github.io/mogus/poke.html"
+  },
   {
     "name": "The Password Game",
     "type": "Puzzle",
