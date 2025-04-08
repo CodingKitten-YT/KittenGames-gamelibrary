@@ -1,5 +1,11 @@
 [
   {
+    "name": "Rally Racer Dirt",
+    "type": "Racing",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Rallyracerdirt.jpeg",
+    "url": "https://trafficjam3d.github.io/rally-racer-dirt/"
+  },
+  {
     "name": "Angry Birds Halloween",
     "type": "Puzzle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/angrybridshallo.jpeg",
