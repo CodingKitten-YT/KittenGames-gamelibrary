@@ -99,13 +99,7 @@
     "name": "Poor Bunny",
     "type": "Idle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/ripbunny.png",
-    "url": "https://rooftop-snipers.github.io/g2/class-548/"
-  },
-  {
-    "name": "120 Wave",
-    "type": "Idle",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/120.png",
-    "url": "https://rooftop-snipers.github.io/g3/class-325/"
+    "url": "https://poorbunny.gitlab.io/file/"
   },
   {
     "name": "Bad Time Simulator",
@@ -136,12 +130,6 @@
     "type": "Skill",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/holeo.jpeg",
     "url": "https://us.surajpyakurel.com.np/gf/holeio.html"
-  },
-  {
-    "name": "Rooftop Snipers",
-    "type": "Shooter",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/roofsnip.jpeg",
-    "url": "https://rooftop-snipers.github.io/file/"
   },
   {
     "name": "Bloons TD 4",
