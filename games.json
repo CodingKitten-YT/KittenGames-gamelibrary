@@ -1,5 +1,11 @@
 [
   {
+    "name": "Angrybirds Halloween",
+    "type": "Puzzle",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/angrybridshallo.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/sddisy.swf&aspect=16:9"
+  },
+  {
     "name": "The Password Game",
     "type": "Puzzle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/pass.png",
