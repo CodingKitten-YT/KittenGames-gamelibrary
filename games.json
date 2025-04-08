@@ -121,7 +121,7 @@
   },
   {
     "name": "Achtung Die Kurve",
-    "type": "Skill",
+    "type": "multiplayer",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/achtung.jpeg",
     "url": "https://achtung.life/"
   },
@@ -153,7 +153,7 @@
     "name": "Masked Forces",
     "type": "Shooter",
     "image": "https://slope-game.github.io/shootimg/armedforces.jpg",
-    "url": "https://maskedforcesunlimited.github.io/"
+    "url": "https://labgstore311.github.io/g26/class-525"
   },
   {
     "name": "SuperHero.io",
@@ -492,41 +492,41 @@
     "name": "Recoil",
     "type": "puzzle",
     "image": "https://smashkartsonlinegames.github.io/imgs/recoil.png",
-    "url": "https://smashkartsonlinegames.github.io/v6/recoil"
+    "url": "https://labgstore311.github.io/g2/class-772"
   },
   {
     "name": "Fire Boy and Water Girl 1",
-    "type": "puzzle",
+    "type": "multiplayer",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/firewater.jpeg",
     "url": "https://2048taylorswift.github.io/factoryballsforever/"
   },
   {
     "name": "Fire Boy and Water Girl 2",
-    "type": "puzzle",
+    "type": "multiplayer",
     "image": "https://math181124.github.io/img/class-345.png",
     "url": "https://math181124.github.io/g177/class-345"
   },
   {
     "name": "Fire Boy and Water Girl 3",
-    "type": "puzzle",
+    "type": "multiplayer",
     "image": "https://math181124.github.io/img/class-344.png",
     "url": "https://math181124.github.io/g177/class-344"
   },
   {
     "name": "Fire Boy and Water Girl 4",
-    "type": "puzzle",
+    "type": "multiplayer",
     "image": "https://math181124.github.io/img/class-343.png",
     "url": "https://math181124.github.io/g177/class-343"
   },
   {
     "name": "Fire Boy and Water Girl 5",
-    "type": "puzzle",
+    "type": "multiplayer",
     "image": "https://math181124.github.io/img/class-342.png",
     "url": "https://math181124.github.io/g177/class-342"
   },
   {
     "name": "Fire Boy and Water Girl 6",
-    "type": "puzzle",
+    "type": "multiplayer",
     "image": "https://math181124.github.io/img/class-341.png",
     "url": "https://math181124.github.io/g177/class-341"
   },
