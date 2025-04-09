@@ -1,5 +1,11 @@
 [
   {
+    "name": "Appel",
+    "type": "platformer",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/appel.jpeg",
+    "url": "https://kittengames.github.io/mogus/Appul_.html"
+  },
+  {
     "name": "Angry Birds Space",
     "type": "puzzle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/angryspace.jpeg",
