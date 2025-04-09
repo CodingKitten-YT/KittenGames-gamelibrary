@@ -1,5 +1,11 @@
 [
   {
+    "name": "Angry Birds Space",
+    "type": "puzzle",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/angryspace.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/eybma7.swf"
+  },
+  {
     "name": "Penalty Shooter 2",
     "type": "skill",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/penalshoot.jpeg",
