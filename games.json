@@ -1,5 +1,11 @@
 [
   {
+    "name": "Chicken Merge",
+    "type": "idle",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Chicken-merge.jpeg",
+    "url": "https://labgstore311.github.io/g9/class-641/"
+  },
+  {
     "name": "ZOOM-BE",
     "type": "multiplayer",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/zoombi-ezgif.com-avif-to-png-converter.png",
