@@ -1,5 +1,17 @@
 [
   {
+    "name": "Riddle Transfer 2",
+    "type": "puzzle",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/trans2.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/c89h5i.swf"
+  },
+  {
+    "name": "Riddle Transfer 1",
+    "type": "puzzle",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/trans1.jpeg",
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/s46796.swf"
+  },
+  {
     "name": "Chicken Merge",
     "type": "idle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Chicken-merge.jpeg",
