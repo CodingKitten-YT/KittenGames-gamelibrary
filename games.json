@@ -1,5 +1,11 @@
 [
   {
+    "name": "Gobdun",
+    "type": "battle",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/gobdum.jpeg",
+    "url": "https://labgstore311.github.io/g50/class-21/"
+  },
+  {
     "name": "Riddle Transfer 2",
     "type": "puzzle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/trans2.jpeg",
