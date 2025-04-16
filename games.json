@@ -1,5 +1,11 @@
 [
   {
+    "name": "Super Star Car",
+    "type": "racing",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/supstar.jpeg",
+    "url": "https://labgstore311.github.io/g69/class-630/"
+  },
+  {
     "name": "Stick Fighter",
     "type": "battle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Stickfight.jpeg",
