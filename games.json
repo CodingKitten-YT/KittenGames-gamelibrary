@@ -1,5 +1,11 @@
 [
   {
+    "name": "Stick Fighter",
+    "type": "battle",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Stickfight.jpeg",
+    "url": "https://labgstore311.github.io/g2/class-629/"
+  },
+  {
     "name": "Gobdun",
     "type": "battle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/gobdum.jpeg",
