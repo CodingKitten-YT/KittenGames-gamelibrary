@@ -1,5 +1,11 @@
 [
   {
+    "name": "Eaglercraft",
+    "type": "skill",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/eaglercraft.jpeg",
+    "url": "https://irv77.github.io/AmplerLauncher/"
+  },
+  {
     "name": "Super Star Car",
     "type": "racing",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/supstar.jpeg",
@@ -679,12 +685,6 @@
     "type": "skill",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/stacktris.png",
     "url": "https://ghgstore311.github.io/g2/class-417/"
-  },
-  {
-    "name": "Eaglercraft",
-    "type": "skill",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/eaglercraft.jpeg",
-    "url": "https://02tz.github.io/Resent/javascript/index.html"
   },
   {
     "name": "Tag 2",
