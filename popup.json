@@ -1,15 +1,15 @@
 {
   "popup": {
     "enabled": true,
-    "title": "Official Discord Server!",
-    "message": "We created a discord server for Kittengames! A place where you can talk about the site and help us decide about what we want to add or what we need to remove!",
+    "title": "Help Keep KittenGames Alive!",
+    "message": "KittenGames isn't free for me to maintain, and I need your support to keep the project online. Any amount you can contribute is greatly appreciated!",
     "project": {
-      "url": "https://discord.gg/8nTXCqqWM8",
-      "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/dcpop.png"
+      "url": "https://ko-fi.com/codingkitten",
+      "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/codingkitten-Sharable-Profile)-Horizontal.jpg"
     },
     "button": {
-      "text": "Join now",
-      "url": "https://discord.gg/8nTXCqqWM8"
+      "text": "Support Now",
+      "url": "https://ko-fi.com/codingkitten"
     }
   }
 }
