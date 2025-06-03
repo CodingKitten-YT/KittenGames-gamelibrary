@@ -1,5 +1,11 @@
 [
   {
+    "name": "Online PVP",
+    "type": "multiplayer",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/shootergame.png",
+    "url": "https://kittengames.github.io/mogus/Shootur.html"
+  },
+  {
     "name": "Eaglercraft",
     "type": "skill",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/eaglercraft.jpeg",
