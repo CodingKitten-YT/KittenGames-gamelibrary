@@ -201,7 +201,7 @@
     "name": "Bloons TD 4",
     "type": "Skill",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPJtEH7-ixI7kF48chSfN1uQSaTVv1MEl2eQ&s",
-    "url": "https://bitlifeonline.github.io/bloons-tower-defense-4/"
+    "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://raw.githubusercontent.com/CodingKitten-YT/FlashEmbed/main/files/bloons-td4-expansion.swf"
   },
   {
     "name": "Idle Miner",
@@ -232,12 +232,6 @@
     "type": "Skill",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhsp_VjgVsbkQXQDeqc3O0jjRHP_b37hV7cw&s",
     "url": "https://snowrider97.github.io/file/"
-  },
-  {
-    "name": "Cookie Clicker",
-    "type": "Idle",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/cookieclicker.png",
-    "url": "https://cookie-clicker-online.github.io/file/"
   },
   {
     "name": "Lingo",
@@ -375,12 +369,6 @@
     "url": "https://math181124.github.io/g69/class-587"
   },
   {
-    "name": "Bob The Robber 2",
-    "type": "platformer",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw59iLJAtOduB0YBrax8nKxyX36En3QFls6Q&s",
-    "url": "https://bobtherobberunblocked.github.io/2/"
-  },
-  {
     "name": "Champions League",
     "type": "skill",
     "image": "https://math181124.github.io/img/class-588.png",
@@ -465,12 +453,6 @@
     "url": "https://math181124.github.io/g2/class-429"
   },
   {
-    "name": "Temple of Boom",
-    "type": "platformer",
-    "image": "https://math181124.github.io/img/class-411.png",
-    "url": "https://soccer-random.github.io/a3/temple-of-boom/"
-  },
-  {
     "name": "Parkour Race",
     "type": "platformer",
     "image": "https://tataedu23.github.io/img/class-830.png",
@@ -505,12 +487,6 @@
     "type": "skill",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/volleyrand.jpeg",
     "url": "https://labgstore311.github.io/g/class-811"
-  },
-  {
-    "name": "Soccer Random",
-    "type": "skill",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/soccrand.jpeg",
-    "url": "https://soccer-random.github.io/a8/soccer-random/"
   },
   {
     "name": "Mini Battles",
@@ -549,12 +525,6 @@
     "url": "https://labgstore311.github.io/g2/class-772"
   },
   {
-    "name": "Fire Boy and Water Girl 1",
-    "type": "multiplayer",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/firewater.jpeg",
-    "url": "https://2048taylorswift.github.io/factoryballsforever/"
-  },
-  {
     "name": "Fire Boy and Water Girl 2",
     "type": "multiplayer",
     "image": "https://math181124.github.io/img/class-345.png",
@@ -589,12 +559,6 @@
     "type": "skill",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/slop2.jpeg",
     "url": "https://labgstore311.github.io/g97/class-800/"
-  },
-  {
-    "name": "WhitePenRoad",
-    "type": "platformer",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/whitepen.jpeg",
-    "url": "https://haleyschool.github.io/games/whitepenroad/index.html"
   },
   {
     "name": "Choppy Orc",
@@ -685,12 +649,6 @@
     "type": "battle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/gladihopper.png",
     "url": "https://hypackelgames.firebaseapp.com/files/gladihoppers/game.html"
-  },
-  {
-    "name": "Idle Ants",
-    "type": "puzzle",
-    "image": "https://math181124.github.io/img/class-631.png",
-    "url": "https://77pen.github.io/p5/idle-ants"
   },
   {
     "name": "Yarn",
@@ -795,12 +753,6 @@
     "url": "https://math181124.github.io/g/class-510"
   },
   {
-    "name": "Vex 8",
-    "type": "platformer",
-    "image": "https://math181124.github.io/img/class-245.png",
-    "url": "https://ubg98.github.io/Vex8/"
-  },
-  {
     "name": "Hobo 1",
     "type": "battle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/hobo1.jpeg",
@@ -877,12 +829,6 @@
     "type": "puzzle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/prism.png",
     "url": "https://turbowarp.org/127030178/embed?hqpen"
-  },
-  {
-    "name": "Drift Boss",
-    "type": "skill",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/Driftboss.png",
-    "url": "https://driftbossonline.github.io/file/index.html"
   },
   {
     "name": "Flappy Bird",
@@ -964,18 +910,6 @@
     "url": "https://lite.3kh0.net/projects/motox3m-winter/"
   },
   {
-    "name": "Tunnel Rush",
-    "type": "skill",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/tunnelrush.jpeg",
-    "url": "https://3kho.github.io/projects/tunnel-rush/index.html"
-  },
-  {
-    "name": "Paper.io 2",
-    "type": "other",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/paperio.jpeg",
-    "url": "https://3kho.github.io/projects/paperio2/index.html"
-  },
-  {
     "name": "Cats",
     "type": "battle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/cats.jpeg",
@@ -998,12 +932,6 @@
     "type": "idle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/bitlife.png",
     "url": "https://1727859.github.io/cyanidegames/bitlife/index.html"
-  },
-  {
-    "name": "Earn To Die",
-    "type": "racing",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/etd.jpeg",
-    "url": "https://unblockedgamesworlds.github.io/earn-to-die/"
   },
   {
     "name": "Temple Run",
@@ -1057,7 +985,7 @@
     "name": "CircloO",
     "type": "puzzle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/circloo.png",
-    "url": "https://ubg98.github.io/CircloO2/"
+    "url": "https://glcdn.githack.com/3kh0/3kh0-assets/-/raw/main/circlo/index.html"
   },
   {
     "name": "Champion Island",
@@ -1074,23 +1002,11 @@
     "newtab": true
   },
   {
-    "name": "Hunter Assasin 2",
-    "type": "puzzle",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/assasin.jpeg",
-    "url": "https://classroomjq.github.io/class276223/hunter-assassin-2/?kiz10"
-  },
-  {
     "name": "Say what you see!",
     "type": "other",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/SayWhatYOuSee.png",
     "url": "https://artsandculture.google.com/incognito/experiment/jwG3m7wQShZngw",
     "newtab": true
-  },
-  {
-    "name": "Oblong",
-    "type": "other",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/oblong.png",
-    "url": "https://www.hoodamath.com/mobile/games/oblong/game.html"
   },
   {
     "name": "Sandboxels",
@@ -1151,7 +1067,7 @@
     "name": "Monkey Mart",
     "type": "idle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/monkeymart.jpeg",
-    "url": "https://slope-game.github.io/newgame/monkey-mart/"
+    "url": "https://glcdn.githack.com/3kh0/3kh0-assets/-/raw/main/MonkeyMart/index.html"
   },
   {
     "name": "Gun Mayhem",
