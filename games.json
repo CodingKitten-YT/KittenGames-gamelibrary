@@ -104,7 +104,7 @@
   {
     "name": "Angry Birds",
     "type": "Puzzle",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/angryvogels.webp",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/angryvogels.jpg",
     "url": "https://codingkitten-yt.github.io/FlashEmbed/?url=https://files.catbox.moe/krop63.swf&aspect=16:9"
   },
   {
@@ -116,19 +116,19 @@
   {
     "name": "Big Tall Small",
     "type": "Puzzle",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/big-tall-small.png",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/bigtallsmall.jpeg",
     "url": "https://abinbins.github.io/a8/big-tall-small/"
   },
   {
     "name": "Pong",
     "type": "Retro",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/pong.jpg",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/pong.png",
     "url": "https://sethclydesdale.github.io/browser-pong/"
   },
   {
     "name": "Pokemon - Emerald",
     "type": "Retro",
-    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/pokemon-emarald.jpg",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/pokemon.webp",
     "url": "https://kittengames.github.io/mogus/poke.html"
   },
   {
@@ -212,7 +212,7 @@
   {
     "name": "Masked Forces",
     "type": "Shooter",
-    "image": "https://slope-game.github.io/shootimg/armedforces.jpg",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/maskedforces.jpeg",
     "url": "https://labgstore311.github.io/g26/class-525"
   },
   {
@@ -483,12 +483,6 @@
     "url": "https://stickmanhook.gitlab.io/file/"
   },
   {
-    "name": "Subways Server",
-    "type": "platformer",
-    "image": "https://unblocked-games-onlines.github.io/imgs/subway-surfers.png",
-    "url": "https://unblocked-games-onlines.github.io/u8/subway-surfers-san-francisco"
-  },
-  {
     "name": "Crossy Road Space",
     "type": "platformer",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/crossyroad.jpeg",
@@ -527,7 +521,7 @@
   {
     "name": "Blumgi Ball",
     "type": "skill",
-    "image": "https://smashkartsonlinegames.github.io/imgs/blumgi-ball.png",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/blumgiball.jpeg",
     "url": "https://labgstore311.github.io/g16/class-419/"
   },
   {
@@ -589,12 +583,6 @@
     "type": "multiplayer",
     "image": "https://math181124.github.io/img/class-341.png",
     "url": "https://math181124.github.io/g177/class-341"
-  },
-  {
-    "name": "Geometry Dash",
-    "type": "skill",
-    "image": "https://smashkartsonlinegames.github.io/imgs/geometry-dash.png",
-    "url": "https://smashkartsonlinegames.github.io/v8/geometry-dash/"
   },
   {
     "name": "Slope 2",
