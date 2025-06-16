@@ -1,4 +1,10 @@
 [
+   {
+    "name": "Soccer Skills World Cup",
+    "type": "skill",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/Soccerworld.jpeg",
+    "url": "https://jamestore214.github.io/g2/class-423/#topvaz"
+  },
   {
     "name": "Online PVP",
     "type": "multiplayer",
