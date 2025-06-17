@@ -3,7 +3,8 @@
     "name": "Bee Swarm Simulator",
     "type": "idle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/beeswarm.webp",
-    "url": "https://dddatt.github.io/bss/"
+    "url": "https://dddatt.github.io/bss/",
+    "newtab": "true"
   },
    {
     "name": "Soccer Skills World Cup",
