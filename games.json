@@ -1,5 +1,11 @@
 [
    {
+    "name": "Cow Bay",
+    "type": "idle",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/cowbay.png",
+    "url": "https://jamestore214.github.io/g3/class-309"
+  },
+   {
     "name": "Temple Run 2",
     "type": "platformer",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/templerun2.jpeg",
