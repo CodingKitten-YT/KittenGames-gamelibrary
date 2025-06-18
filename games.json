@@ -1,5 +1,11 @@
 [
    {
+    "name": "Temple Run 2",
+    "type": "platformer",
+    "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/refs/heads/main/images/templerun2.jpeg",
+    "url": "https://jamestore214.github.io/g26/class-405/"
+  },
+   {
     "name": "Bee Swarm Simulator",
     "type": "idle",
     "image": "https://cdn.statically.io/gh/CodingKitten-YT/KittenGames-gamelibrary/main/images/beeswarm.webp",
